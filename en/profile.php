@@ -26,8 +26,7 @@
                             </div>
                             <div class="col l9 m6 s12">
                                 <p>I help create modern online experiences which embrace a unique visual language and communicate across the full spectrum of digital media.</p>
-                                <p>Working alongside stakeholders and teams, I apply a iterative problem-solving approach aimed at unlocking purposeful user-driven design.</p>
-                                <p>Career highlights include creating and launching <a href="https://www.emprego.co.mz/" target="_blank">emprego.co.mz</a>, a mozambican job portal, which suceeded in becoming the top destination for local jobseekers and gained nationwide acclaim.</p>
+                                <p>Working alongside stakeholders and teams, I apply a iterative problem-solving approach aimed at unlocking purposeful user-driven products.</p>
                             </div>
                             <div class="col m2"></div>
                             <div class="col m4">
@@ -60,20 +59,20 @@
                         <div class="preloader-background"></div>
                         <div class="row">
                             <div class="col l3 s12">
-                                <h2>what do I do<span class="borderTop"></span></h2>
+                                <h2>services<span class="borderTop"></span></h2>
                             </div>
                         </div>
                         <div class="row">
                             <div class="col l4 m6 s12 spacer">
                                 <h3 class="valign-wrapper">
                                     <img class="gridImg" src="../img/icons/graphics.svg" alt="">
-                                    <span class="fadeIn medium delayM">Graphic Design</span>
+                                    <span class="fadeIn medium delayM">Branding</span>
                                 </h3 >
                             </div>
                             <div class="col l4 m6 s12 spacer">
                                 <h3 class="valign-wrapper">
                                     <img class="gridImg" src="../img/icons/websites.svg" alt="">
-                                    <span class="fadeIn long delayL">Web Development</span>
+                                    <span class="fadeIn long delayL">iOS Development</span>
                                 </h3 >
                             </div>
                             <div class="col l4 m6 s12 spacer">
@@ -111,10 +110,10 @@
                         <div class="preloader-background"></div>
                         <div class="row">
                             <div class="col l3 s12">
-                                <h2>believers<span class="borderTop"></span></h2>
+                                <h2>clients<span class="borderTop"></span></h2>
                             </div>
                         </div>
-                        <div class="row">
+                        <div class="row clients">
                             <div class="col l4 s6 centerize">
                                 <img class="responsive-img" src="../img/clients/clients_exi.png" alt="">
                             </div>
@@ -210,7 +209,7 @@
                 var div_top = $('#sticky-anchor').offset().top;
                     if (window_top > div_top) {
                     $('#sticky').addClass('stick');
-                } 
+                }
                 else {
                     $('#sticky').removeClass('stick');
                 }
@@ -219,15 +218,15 @@
             $(function () {
             $(window).scroll(function(){
                 sticky_relocate();
-                if($(window).scrollTop() > $('#section1').offset().top 
+                if($(window).scrollTop() > $('#section1').offset().top
                     && $(window).scrollTop() < $('#section1').offset().top + $('#section1').outerHeight(true)
                 ){
                     $('#sticky').find('h1').html('intro<div class="borderTopFixed"></div>');
-                }else if($(window).scrollTop() > $('#section2').offset().top 
+                }else if($(window).scrollTop() > $('#section2').offset().top
                     && $(window).scrollTop() < $('#section2').offset().top + $('#section2').outerHeight(true)
                 ){
                     $('#sticky').find('h1').html('services<div class="borderTopFixed"></div>');
-                }else if($(window).scrollTop() > $('#section3').offset().top 
+                }else if($(window).scrollTop() > $('#section3').offset().top
                     && $(window).scrollTop() < $('#section3').offset().top + $('#section3').outerHeight(true)
                 ){
                     $('#sticky').find('h1').html('clients<div class="borderTopFixed"></div>');
@@ -235,7 +234,7 @@
                 });
             });
         </script>
- 
+
         <!--Downloadable-->
         <script>
             document.addEventListener("scroll", function() {

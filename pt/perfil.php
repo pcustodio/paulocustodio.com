@@ -25,9 +25,8 @@
                                 </div>
                             </div>
                             <div class="col l9 m6 s12">
-                                <p>Ajudo a criar experiências online modernas que incorporam uma linguagem visual única e potenciam o património digital de organizações.</p>
-                                <p>Trabalho com decisores e equipes, colocando em prática uma mentalidade focada na resolução de problemas, que consolida as exigências de clientes com objectivos estratégicos a curto e longo termo.</p>
-                                <p>Destaques de carreira incluem a criação <a href="https://www.emprego.co.mz/" target="_blank">emprego.co.mz</a>, um portal de emprego que se tornou a maior referência online para a procura de trabalho em Moçambique.</p>
+                                <p>Ajudo a construir produtos que incorporam uma linguagem visual distinta e potenciam o património digital de organizações.</p>
+                                <p>Trabalho com decisores e equipas, colocando em prática uma mentalidade focada em resolução de problemas, que consolida as exigências do cliente com  os seus objectivos estratégicos.</p>
                             </div>
 
                             <div class="col m2"></div>
@@ -61,7 +60,7 @@
                         <div class="preloader-background"></div>
                         <div class="row">
                             <div class="col l3 s12">
-                                <h2>o que faço<span class="borderTop"></span></h2>
+                                <h2>serviços<span class="borderTop"></span></h2>
                             </div>
                         </div>
                         <div class="row">
@@ -112,10 +111,10 @@
                         <div class="preloader-background"></div>
                         <div class="row">
                             <div class="col l3 s12">
-                                <h2>crentes<span class="borderTop"></span></h2>
+                                <h2>clientes<span class="borderTop"></span></h2>
                             </div>
                         </div>
-                        <div class="row">
+                        <div class="row clients">
                             <div class="col l4 s6 centerize">
                                 <img class="responsive-img" src="../img/clients/clients_exi.png" alt="">
                             </div>
@@ -211,7 +210,7 @@
                 var div_top = $('#sticky-anchor').offset().top;
                     if (window_top > div_top) {
                     $('#sticky').addClass('stick');
-                } 
+                }
                 else {
                     $('#sticky').removeClass('stick');
                 }
@@ -220,15 +219,15 @@
             $(function () {
             $(window).scroll(function(){
                 sticky_relocate();
-                if($(window).scrollTop() > $('#section1').offset().top 
+                if($(window).scrollTop() > $('#section1').offset().top
                     && $(window).scrollTop() < $('#section1').offset().top + $('#section1').outerHeight(true)
                 ){
                     $('#sticky').find('h1').html('intro<div class="borderTopFixed"></div>');
-                }else if($(window).scrollTop() > $('#section2').offset().top 
+                }else if($(window).scrollTop() > $('#section2').offset().top
                     && $(window).scrollTop() < $('#section2').offset().top + $('#section2').outerHeight(true)
                 ){
                     $('#sticky').find('h1').html('serviços<div class="borderTopFixed"></div>');
-                }else if($(window).scrollTop() > $('#section3').offset().top 
+                }else if($(window).scrollTop() > $('#section3').offset().top
                     && $(window).scrollTop() < $('#section3').offset().top + $('#section3').outerHeight(true)
                 ){
                     $('#sticky').find('h1').html('clientes<div class="borderTopFixed"></div>');
@@ -236,7 +235,7 @@
                 });
             });
         </script>
- 
+
         <!--Downloadable-->
         <script>
             document.addEventListener("scroll", function() {

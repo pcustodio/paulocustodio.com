@@ -1,7 +1,7 @@
 <?php include 'header.php'; ?>
         <main>
     		<div>
-                <div class="row" id="section1">                    
+                <div class="row" id="section1">
                     <div class="col l3 s2" id="sticky-anchor">
                         <div id="sticky">
                             <h1>showcase<span class="borderTop goRight medium"></span></h1>
@@ -12,24 +12,22 @@
                         <div class="row spacer compress pacer">
                             <div class="button-group filters-button-group">
                                 <button class="button-filter is-checked" data-filter="*">all</button>
-                                <button class="button-filter" data-filter=".graphics">graphics</button>
-                                <button class="button-filter" data-filter=".web">web</button>
-                                <button class="button-filter" data-filter=".socialmedia">social</button>
-                                <button class="button-filter" data-filter=".others">photography</button>
+                                <button class="button-filter" data-filter=".design">design</button>
+                                <button class="button-filter" data-filter=".ios">development</button>
                             </div>
                         </div>
                         <div class="row grid">
-                            <div class="col l4 m4 s6 grid-item transition graphics">
+                            <div class="col l4 m4 s6 grid-item transition design">
                                 <!-- Card -->
                                 <div class="card">
                                     <div class="card-image">
                                         <a class="lightup" href="../img/folio/exi_brochure.png" title="">
                                             <img src="../img/folio/thumbs/exi_brochure.png" alt="" title="">
-                                        </a> 
+                                        </a>
                                     </div>
                                 </div>
                             </div>
-                            <div class="col l4 m4 s6 grid-item transition graphics">
+                            <div class="col l4 m4 s6 grid-item transition design">
                                 <!-- Card -->
                                 <div class="card">
                                     <div class="card-image">
@@ -39,7 +37,7 @@
                                     </div>
                                 </div>
                             </div>
-                            <div class="col l4 m4 s6 grid-item transition graphics">
+                            <div class="col l4 m4 s6 grid-item transition design">
                                 <!-- Card -->
                                 <div class="card">
                                     <div class="card-image">
@@ -49,7 +47,7 @@
                                     </div>
                                 </div>
                             </div>
-                            <div class="col l4 m4 s6 grid-item transition graphics">
+                            <div class="col l4 m4 s6 grid-item transition design">
                                 <!-- Card -->
                                 <div class="card">
                                     <div class="card-image">
@@ -59,7 +57,7 @@
                                     </div>
                                 </div>
                             </div>
-                            <div class="col l4 m4 s6 grid-item transition web">
+                            <div class="col l4 m4 s6 grid-item transition design">
                                 <!-- Card -->
                                 <div class="card">
                                     <div class="card-image">
@@ -69,7 +67,7 @@
                                     </div>
                                 </div>
                             </div>
-                            <div class="col l4 m4 s6 grid-item transition graphics">
+                            <div class="col l4 m4 s6 grid-item transition design">
                                 <!-- Card -->
                                 <div class="card">
                                     <div class="card-image">
@@ -79,7 +77,7 @@
                                     </div>
                                 </div>
                             </div>
-                            <div class="col l4 m4 s6 grid-item transition socialmedia">
+                            <div class="col l4 m4 s6 grid-item transition design">
                                 <!-- Card -->
                                 <div class="card">
                                     <div class="card-image">
@@ -89,7 +87,7 @@
                                     </div>
                                 </div>
                             </div>
-                            <div class="col l4 m4 s6 grid-item transition graphics">
+                            <div class="col l4 m4 s6 grid-item transition design">
                                 <!-- Card -->
                                 <div class="card">
                                     <div class="card-image">
@@ -99,7 +97,7 @@
                                     </div>
                                 </div>
                             </div>
-                            <div class="col l4 m4 s6 grid-item transition graphics">
+                            <div class="col l4 m4 s6 grid-item transition design">
                                 <!-- Card -->
                                 <div class="card">
                                     <div class="card-image">
@@ -109,7 +107,7 @@
                                     </div>
                                 </div>
                             </div>
-                            <div class="col l4 m4 s6 grid-item transition graphics">
+                            <div class="col l4 m4 s6 grid-item transition design">
                                 <!-- Card -->
                                 <div class="card">
                                     <div class="card-image">
@@ -119,7 +117,7 @@
                                     </div>
                                 </div>
                             </div>
-                            <div class="col l4 m4 s6 grid-item transition graphics">
+                            <div class="col l4 m4 s6 grid-item transition design">
                                 <!-- Card -->
                                 <div class="card">
                                     <div class="card-image">
@@ -129,7 +127,7 @@
                                     </div>
                                 </div>
                             </div>
-                            <div class="col l4 m4 s6 grid-item transition web">
+                            <div class="col l4 m4 s6 grid-item transition design">
                                 <!-- Card -->
                                 <div class="card">
                                     <div class="card-image">
@@ -139,7 +137,7 @@
                                     </div>
                                 </div>
                             </div>
-                            <div class="col l4 m4 s6 grid-item transition graphics">
+                            <div class="col l4 m4 s6 grid-item transition design">
                                 <!-- Card -->
                                 <div class="card">
                                     <div class="card-image">
@@ -149,7 +147,7 @@
                                     </div>
                                 </div>
                             </div>
-                            <div class="col l4 m4 s6 grid-item transition web">
+                            <div class="col l4 m4 s6 grid-item transition design">
                                 <!-- Card -->
                                 <div class="card">
                                     <div class="card-image">
@@ -159,7 +157,7 @@
                                     </div>
                                 </div>
                             </div>
-                            <div class="col l4 m4 s6 grid-item transition graphics">
+                            <div class="col l4 m4 s6 grid-item transition design">
                                 <!-- Card -->
                                 <div class="card">
                                     <div class="card-image">
@@ -169,7 +167,7 @@
                                     </div>
                                 </div>
                             </div>
-                            <div class="col l4 m4 s6 grid-item transition graphics">
+                            <div class="col l4 m4 s6 grid-item transition design">
                                 <!-- Card -->
                                 <div class="card">
                                     <div class="card-image">
@@ -179,7 +177,7 @@
                                     </div>
                                 </div>
                             </div>
-                            <div class="col l4 m4 s6 grid-item transition graphics">
+                            <div class="col l4 m4 s6 grid-item transition design">
                                 <!-- Card -->
                                 <div class="card">
                                     <div class="card-image">
@@ -189,7 +187,7 @@
                                     </div>
                                 </div>
                             </div>
-                            <div class="col l4 m4 s6 grid-item transition web">
+                            <div class="col l4 m4 s6 grid-item transition design">
                                 <!-- Card -->
                                 <div class="card">
                                     <div class="card-image">
@@ -199,7 +197,7 @@
                                     </div>
                                 </div>
                             </div>
-                            <div class="col l4 m4 s6 grid-item transition graphics">
+                            <div class="col l4 m4 s6 grid-item transition design">
                                 <!-- Card -->
                                 <div class="card">
                                     <div class="card-image">
@@ -209,7 +207,7 @@
                                     </div>
                                 </div>
                             </div>
-                            <div class="col l4 m4 s6 grid-item transition socialmedia">
+                            <div class="col l4 m4 s6 grid-item transition design">
                                 <!-- Card -->
                                 <div class="card">
                                     <div class="card-image">
@@ -219,7 +217,7 @@
                                     </div>
                                 </div>
                             </div>
-                            <div class="col l4 m4 s6 grid-item transition graphics">
+                            <div class="col l4 m4 s6 grid-item transition design">
                                 <!-- Card -->
                                 <div class="card">
                                     <div class="card-image">
@@ -229,7 +227,7 @@
                                     </div>
                                 </div>
                             </div>
-                            <div class="col l4 m4 s6 grid-item transition graphics">
+                            <div class="col l4 m4 s6 grid-item transition design">
                                 <!-- Card -->
                                 <div class="card">
                                     <div class="card-image">
@@ -239,7 +237,7 @@
                                     </div>
                                 </div>
                             </div>
-                            <div class="col l4 m4 s6 grid-item transition others">
+                            <div class="col l4 m4 s6 grid-item transition design">
                                 <!-- Card -->
                                 <div class="card">
                                     <div class="card-image">
@@ -249,7 +247,7 @@
                                     </div>
                                 </div>
                             </div>
-                            <div class="col l4 m4 s6 grid-item transition graphics">
+                            <div class="col l4 m4 s6 grid-item transition design">
                                 <!-- Card -->
                                 <div class="card">
                                     <div class="card-image">
@@ -259,7 +257,7 @@
                                     </div>
                                 </div>
                             </div>
-                            <div class="col l4 m4 s6 grid-item transition graphics">
+                            <div class="col l4 m4 s6 grid-item transition design">
                                 <!-- Card -->
                                 <div class="card">
                                     <div class="card-image">
@@ -269,7 +267,7 @@
                                     </div>
                                 </div>
                             </div>
-                            <div class="col l4 m4 s6 grid-item transition others">
+                            <div class="col l4 m4 s6 grid-item transition design">
                                 <!-- Card -->
                                 <div class="card">
                                     <div class="card-image">
@@ -279,7 +277,7 @@
                                     </div>
                                 </div>
                             </div>
-                            <div class="col l4 m4 s6 grid-item transition web">
+                            <div class="col l4 m4 s6 grid-item transition design">
                                 <!-- Card -->
                                 <div class="card">
                                     <div class="card-image">
@@ -289,7 +287,7 @@
                                     </div>
                                 </div>
                             </div>
-                            <div class="col l4 m4 s6 grid-item transition web">
+                            <div class="col l4 m4 s6 grid-item transition design">
                                 <!-- Card -->
                                 <div class="card">
                                     <div class="card-image">
@@ -299,7 +297,7 @@
                                     </div>
                                 </div>
                             </div>
-                            <div class="col l4 m4 s6 grid-item transition socialmedia">
+                            <div class="col l4 m4 s6 grid-item transition design">
                                 <!-- Card -->
                                 <div class="card">
                                     <div class="card-image">
@@ -319,7 +317,7 @@
                                     </div>
                                 </div>
                             </div>
-                            <div class="col l4 m4 s6 grid-item transition graphics">
+                            <div class="col l4 m4 s6 grid-item transition design">
                                 <!-- Card -->
                                 <div class="card">
                                     <div class="card-image">
@@ -329,7 +327,7 @@
                                     </div>
                                 </div>
                             </div>
-                            <div class="col l4 m4 s6 grid-item transition graphics">
+                            <div class="col l4 m4 s6 grid-item transition design">
                                 <!-- Card -->
                                 <div class="card">
                                     <div class="card-image">
@@ -339,7 +337,7 @@
                                     </div>
                                 </div>
                             </div>
-                            <div class="col l4 m4 s6 grid-item transition graphics">
+                            <div class="col l4 m4 s6 grid-item transition design">
                                 <!-- Card -->
                                 <div class="card">
                                     <div class="card-image">
@@ -349,7 +347,7 @@
                                     </div>
                                 </div>
                             </div>
-                            <div class="col l4 m4 s6 grid-item transition web">
+                            <div class="col l4 m4 s6 grid-item transition design">
                                 <!-- Card -->
                                 <div class="card">
                                     <div class="card-image">
@@ -359,7 +357,7 @@
                                     </div>
                                 </div>
                             </div>
-                            <div class="col l4 m4 s6 grid-item transition graphics">
+                            <div class="col l4 m4 s6 grid-item transition design">
                                 <!-- Card -->
                                 <div class="card">
                                     <div class="card-image">
@@ -369,7 +367,7 @@
                                     </div>
                                 </div>
                             </div>
-                            <div class="col l4 m4 s6 grid-item transition graphics">
+                            <div class="col l4 m4 s6 grid-item transition design">
                                 <!-- Card -->
                                 <div class="card">
                                     <div class="card-image">
@@ -379,7 +377,7 @@
                                     </div>
                                 </div>
                             </div>
-                            <div class="col l4 m4 s6 grid-item transition web">
+                            <div class="col l4 m4 s6 grid-item transition design">
                                 <!-- Card -->
                                 <div class="card">
                                     <div class="card-image">
@@ -389,7 +387,7 @@
                                     </div>
                                 </div>
                             </div>
-                            <div class="col l4 m4 s6 grid-item transition graphics">
+                            <div class="col l4 m4 s6 grid-item transition design">
                                 <!-- Card -->
                                 <div class="card">
                                     <div class="card-image">
@@ -399,7 +397,7 @@
                                     </div>
                                 </div>
                             </div>
-                            <div class="col l4 m4 s6 grid-item transition web">
+                            <div class="col l4 m4 s6 grid-item transition design">
                                 <!-- Card -->
                                 <div class="card">
                                     <div class="card-image">
@@ -409,7 +407,7 @@
                                     </div>
                                 </div>
                             </div>
-                            <div class="col l4 m4 s6 grid-item transition graphics">
+                            <div class="col l4 m4 s6 grid-item transition design">
                                 <!-- Card -->
                                 <div class="card">
                                     <div class="card-image">
@@ -419,7 +417,7 @@
                                     </div>
                                 </div>
                             </div>
-                            <div class="col l4 m4 s6 grid-item transition web">
+                            <div class="col l4 m4 s6 grid-item transition design">
                                 <!-- Card -->
                                 <div class="card">
                                     <div class="card-image">
@@ -429,7 +427,7 @@
                                     </div>
                                 </div>
                             </div>
-                            <div class="col l4 m4 s6 grid-item transition graphics">
+                            <div class="col l4 m4 s6 grid-item transition design">
                                 <!-- Card -->
                                 <div class="card">
                                     <div class="card-image">
@@ -439,7 +437,7 @@
                                     </div>
                                 </div>
                             </div>
-                            <div class="col l4 m4 s6 grid-item transition graphics">
+                            <div class="col l4 m4 s6 grid-item transition design">
                                 <!-- Card -->
                                 <div class="card">
                                     <div class="card-image">
@@ -449,7 +447,7 @@
                                     </div>
                                 </div>
                             </div>
-                            <div class="col l4 m4 s6 grid-item transition graphics">
+                            <div class="col l4 m4 s6 grid-item transition design">
                                 <!-- Card -->
                                 <div class="card">
                                     <div class="card-image">
@@ -459,7 +457,7 @@
                                     </div>
                                 </div>
                             </div>
-                            <div class="col l4 m4 s6 grid-item transition graphics">
+                            <div class="col l4 m4 s6 grid-item transition design">
                                 <!-- Card -->
                                 <div class="card">
                                     <div class="card-image">
@@ -469,7 +467,7 @@
                                     </div>
                                 </div>
                             </div>
-                            <div class="col l4 m4 s6 grid-item transition web">
+                            <div class="col l4 m4 s6 grid-item transition design">
                                 <!-- Card -->
                                 <div class="card">
                                     <div class="card-image">
@@ -479,7 +477,7 @@
                                     </div>
                                 </div>
                             </div>
-                            <div class="col l4 m4 s6 grid-item transition web">
+                            <div class="col l4 m4 s6 grid-item transition design">
                                 <!-- Card -->
                                 <div class="card">
                                     <div class="card-image">
@@ -489,7 +487,7 @@
                                     </div>
                                 </div>
                             </div>
-                            <div class="col l4 m4 s6 grid-item transition graphics">
+                            <div class="col l4 m4 s6 grid-item transition design">
                                 <!-- Card -->
                                 <div class="card">
                                     <div class="card-image">
@@ -499,7 +497,7 @@
                                     </div>
                                 </div>
                             </div>
-                            <div class="col l4 m4 s6 grid-item transition web">
+                            <div class="col l4 m4 s6 grid-item transition design">
                                 <!-- Card -->
                                 <div class="card">
                                     <div class="card-image">
@@ -509,7 +507,7 @@
                                     </div>
                                 </div>
                             </div>
-                            <div class="col l4 m4 s6 grid-item transition web">
+                            <div class="col l4 m4 s6 grid-item transition design">
                                 <!-- Card -->
                                 <div class="card">
                                     <div class="card-image">
@@ -519,7 +517,7 @@
                                     </div>
                                 </div>
                             </div>
-                            <div class="col l4 m4 s6 grid-item transition web">
+                            <div class="col l4 m4 s6 grid-item transition design">
                                 <!-- Card -->
                                 <div class="card">
                                     <div class="card-image">
@@ -529,7 +527,7 @@
                                     </div>
                                 </div>
                             </div>
-                            <div class="col l4 m4 s6 grid-item transition web">
+                            <div class="col l4 m4 s6 grid-item transition design">
                                 <!-- Card -->
                                 <div class="card">
                                     <div class="card-image">
@@ -545,7 +543,7 @@
                     <div class="col l2 s10">
                         <div class="rightBar">
                             <ul class="fadeIn short delayS">
-                                <li>Latest work by Paulo Custodio, a Visual Designer and Web Developer</li>
+                                <li>Latest work by Paulo Custodio, a Designer and iOS Developer</li>
                             </ul>
                             <span class="goBottom short"></span>
                         </div>
@@ -561,7 +559,7 @@
                 var div_top = $('#sticky-anchor').offset().top;
                     if (window_top > div_top) {
                     $('#sticky').addClass('stick');
-                } 
+                }
                 else {
                     $('#sticky').removeClass('stick');
                 }
@@ -570,7 +568,7 @@
             $(function () {
             $(window).scroll(function(){
                 sticky_relocate();
-                if($(window).scrollTop() > $('#section1').offset().top 
+                if($(window).scrollTop() > $('#section1').offset().top
                     && $(window).scrollTop() < $('#section1').offset().top + $('#section1').outerHeight(true)
                 ){
                     $('#sticky').find('h1').html('showcase<div class="borderTopFixed"></div>');
