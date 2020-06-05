@@ -1,0 +1,253 @@
+<?php include 'header.php'; ?>
+        <main>
+            <div>
+
+                <!--Section 1-->
+                <div class="row" id="section1">
+                    <div class="col l3 s2" id="sticky-anchor">
+                        <div id="sticky">
+                            <h1>intro<span class="borderTop goRight medium"></span></h1>
+                        </div>
+                    </div>
+                    <div class="col l6 s10 adjust">
+                        <div class="preloader-background"></div>
+                        <div class="row">
+                            <div class="col l3 s12">
+                                <h2>about me<span class="borderTop goRight long"></span></h2>
+                            </div>
+                        </div>
+                        <div class="row">
+                            <div class="col l3 m0 s0">
+                                <div class="portrait-container">
+                                    <div class="portrait fadeIn long">
+                                        <span class="p-loader"></span>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col l9 m6 s12">
+                                <p>I help create modern online experiences which embrace a unique visual language and communicate across the full spectrum of digital media.</p>
+                                <p>Working alongside stakeholders and teams, I apply a iterative problem-solving approach aimed at unlocking purposeful user-driven design.</p>
+                                <p>Career highlights include creating and launching <a href="https://www.emprego.co.mz/" target="_blank">emprego.co.mz</a>, a mozambican job portal, which suceeded in becoming the top destination for local jobseekers and gained nationwide acclaim.</p>
+                            </div>
+                            <div class="col m2"></div>
+                            <div class="col m4">
+                                <div class="rightBar">
+                                    <ul class="fadeIn short delayS">
+                                        <li>'I particularly appreciated how he interacts with client demands, a skill which takes years to develop. In Paulo's case, it feels natural.'</li>
+                                        <li class="client fadeIn short delayM">Mário Braz<div>PricewaterhouseCoopers</div></li>
+                                    </ul>
+                                    <span class="goBottom short"></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col l1 m3"></div>
+                    <div class="col l2 m3">
+                        <div class="rightBar">
+                            <ul class="fadeIn short delayS">
+                            	<li>'I particularly appreciated how he interacts with client demands, a skill which takes years to develop. In Paulo's case, it feels natural.'</li>
+                            	<li class="client fadeIn short delayM">Mário Braz<div>PricewaterhouseCoopers</div></li>
+                            </ul>
+                            <span class="goBottom short"></span>
+                        </div>
+                    </div>
+                </div>
+
+                <!--Section 2-->
+                <div class="row" id="section2">
+                    <div class="col l3 s2"></div>
+                    <div class="col l6 s10 adjust">
+                        <div class="preloader-background"></div>
+                        <div class="row">
+                            <div class="col l3 s12">
+                                <h2>what do I do<span class="borderTop"></span></h2>
+                            </div>
+                        </div>
+                        <div class="row">
+                            <div class="col l4 m6 s12 spacer">
+                                <h3 class="valign-wrapper">
+                                    <img class="gridImg" src="../img/icons/graphics.svg" alt="">
+                                    <span class="fadeIn medium delayM">Graphic Design</span>
+                                </h3 >
+                            </div>
+                            <div class="col l4 m6 s12 spacer">
+                                <h3 class="valign-wrapper">
+                                    <img class="gridImg" src="../img/icons/websites.svg" alt="">
+                                    <span class="fadeIn long delayL">Web Development</span>
+                                </h3 >
+                            </div>
+                            <div class="col l4 m6 s12 spacer">
+                                <h3 class="valign-wrapper">
+                                    <img class="gridImg" src="../img/icons/ui_ux.svg" alt="">
+                                    <span class="fadeIn xlong delayXL">UI/UX Design</span>
+                                </h3 >
+                            </div>
+                            <div class="col l4 m6 s12 spacer">
+                                <h3 class="valign-wrapper">
+                                    <img class="gridImg" src="../img/icons/marketing.svg" alt="">
+                                    <span class="fadeIn xlong delayM">Digital Marketing</span>
+                                </h3 >
+                            </div>
+                            <div class="col l4 m6 s12 spacer">
+                                <h3 class="valign-wrapper">
+                                    <img class="gridImg" src="../img/icons/motion.svg" alt="">
+                                    <span class="fadeIn xlong delayL">Motion Graphics</span>
+                                </h3 >
+                            </div>
+                            <div class="col l4 m6 s12">
+                                <h3 class="valign-wrapper">
+                                    <img class="gridImg" src="../img/icons/content.svg" alt="">
+                                    <span class="fadeIn xlong delayXL">Content Strategy</span>
+                                </h3 >
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <!--Section 3-->
+                <div class="row" id="section3">
+                    <div class="col l3 s2"></div>
+                    <div class="col l6 s10 adjust">
+                        <div class="preloader-background"></div>
+                        <div class="row">
+                            <div class="col l3 s12">
+                                <h2>believers<span class="borderTop"></span></h2>
+                            </div>
+                        </div>
+                        <div class="row">
+                            <div class="col l4 s6 centerize">
+                                <img class="responsive-img" src="../img/clients/clients_exi.png" alt="">
+                            </div>
+                            <div class="col l4 s6 centerize">
+                                <img class="responsive-img" src="../img/clients/clients_mad.png" alt="">
+                            </div>
+                            <div class="col l4 s6 centerize">
+                                <img class="responsive-img" src="../img/clients/clients_portador.png" alt="">
+                            </div>
+                            <div class="col l4 s6 centerize">
+                                <img class="responsive-img" src="../img/clients/clients_consola.png" alt="">
+                            </div>
+                            <div class="col l4 s6 centerize">
+                                <img class="responsive-img" src="../img/clients/clients_golo.png" alt="">
+                            </div>
+                            <div class="col l4 s6 centerize ">
+                                <img class="responsive-img" src="../img/clients/clients_kpmg.png" alt="">
+                            </div>
+                            <div class="col l4 s6 centerize">
+                                <img class="responsive-img" src="../img/clients/clients_worldbank.png" alt="">
+                            </div>
+                            <div class="col l4 s6 centerize">
+                                <img class="responsive-img" src="../img/clients/clients_anima.png" alt="">
+                            </div>
+                            <div class="col l4 s6 centerize">
+                                <img class="responsive-img" src="../img/clients/clients_brother.png" alt="">
+                            </div>
+                            <div class="col l4 s6 centerize">
+                                <img class="responsive-img" src="../img/clients/clients_btm.png" alt="">
+                            </div>
+                            <div class="col l4 s6 centerize">
+                                <img class="responsive-img" src="../img/clients/clients_canada.png" alt="">
+                            </div>
+                            <div class="col l4 s6 centerize">
+                                <img class="responsive-img" src="../img/clients/clients_cdm.png" alt="">
+                            </div>
+                            <div class="col l4 s6 centerize">
+                                <img class="responsive-img" src="../img/clients/clients_cfm.png" alt="">
+                            </div>
+                            <div class="col l4 s6 centerize">
+                                <img class="responsive-img" src="../img/clients/clients_emprego.png" alt="">
+                            </div>
+                            <div class="col l4 s6 centerize">
+                                <img class="responsive-img" src="../img/clients/clients_fcm.png" alt="">
+                            </div>
+                            <div class="col l4 s6 centerize">
+                                <img class="responsive-img" src="../img/clients/clients_feiraedu.png" alt="">
+                            </div>
+                            <div class="col l4 s6 centerize">
+                                <img class="responsive-img" src="../img/clients/clients_flow.png" alt="">
+                            </div>
+                            <div class="col l4 s6 centerize">
+                                <img class="responsive-img" src="../img/clients/clients_hturismo.png" alt="">
+                            </div>
+                            <div class="col l4 s6 centerize">
+                                <img class="responsive-img" src="../img/clients/clients_in.png" alt="">
+                            </div>
+                            <div class="col l4 s6 centerize">
+                                <img class="responsive-img" src="../img/clients/clients_interauto.png" alt="">
+                            </div>
+                            <div class="col l4 s6 centerize">
+                                <img class="responsive-img" src="../img/clients/clients_pwc.png" alt="">
+                            </div>
+                            <div class="col l4 s6 centerize">
+                                <img class="responsive-img" src="../img/clients/clients_mcel.png" alt="">
+                            </div>
+                            <div class="col l4 s6 centerize">
+                                <img class="responsive-img" src="../img/clients/clients_mkt.png" alt="">
+                            </div>
+                            <div class="col l4 s6 centerize">
+                                <img class="responsive-img" src="../img/clients/clients_brandlovers.png" alt="">
+                            </div>
+                            <div class="col l4 s6 centerize">
+                                <img class="responsive-img" src="../img/clients/clients_tiga.png" alt="">
+                            </div>
+                            <div class="col l4 s6 centerize">
+                                <img class="responsive-img" src="../img/clients/clients_ux.png" alt="">
+                            </div>
+                            <div class="col l4 s6 centerize">
+                                <img class="responsive-img" src="../img/clients/clients_tvcabo.png" alt="">
+                            </div>
+                        </div>
+                    </div>
+                    <div id="downloadable">download CV</div>
+                </div>
+            </div>
+        </main>
+
+        <!--Scroll Morph-->
+        <script>
+            function sticky_relocate() {
+                var window_top = $(window).scrollTop();
+                var div_top = $('#sticky-anchor').offset().top;
+                    if (window_top > div_top) {
+                    $('#sticky').addClass('stick');
+                } 
+                else {
+                    $('#sticky').removeClass('stick');
+                }
+            }
+
+            $(function () {
+            $(window).scroll(function(){
+                sticky_relocate();
+                if($(window).scrollTop() > $('#section1').offset().top 
+                    && $(window).scrollTop() < $('#section1').offset().top + $('#section1').outerHeight(true)
+                ){
+                    $('#sticky').find('h1').html('intro<div class="borderTopFixed"></div>');
+                }else if($(window).scrollTop() > $('#section2').offset().top 
+                    && $(window).scrollTop() < $('#section2').offset().top + $('#section2').outerHeight(true)
+                ){
+                    $('#sticky').find('h1').html('services<div class="borderTopFixed"></div>');
+                }else if($(window).scrollTop() > $('#section3').offset().top 
+                    && $(window).scrollTop() < $('#section3').offset().top + $('#section3').outerHeight(true)
+                ){
+                    $('#sticky').find('h1').html('clients<div class="borderTopFixed"></div>');
+                }
+                });
+            });
+        </script>
+ 
+        <!--Downloadable-->
+        <script>
+            document.addEventListener("scroll", function() {
+                if (window.pageYOffset > 400){
+                    $('#downloadable').addClass('slideLeft').addClass('medium');
+                    $('#downloadable').removeClass('destroyed').addClass('medium');
+                }
+                else if (window.pageYOffset < 400){
+                    $('#downloadable').addClass('destroyed').addClass('medium');
+                    $('#downloadable').removeClass('slideLeft').addClass('medium');
+                }
+            });
+        </script>
+
+        <?php include 'footer.php'; ?>
