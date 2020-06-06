@@ -25,8 +25,8 @@
                                 </div>
                             </div>
                             <div class="col l9 m6 s12">
-                                <p>I help create modern online experiences which embrace a unique visual language and communicate across the full spectrum of digital media.</p>
-                                <p>Working alongside stakeholders and teams, I apply a iterative problem-solving approach aimed at unlocking purposeful user-driven products.</p>
+                                <p>I construct products which embrace a unique visual language and communicate across the full spectrum of digital media.</p>
+                                <p>Working alongside stakeholders and teams, I apply a iterative problem-solving approach aimed at unlocking purposeful user-driven design.</p>
                             </div>
                             <div class="col m2"></div>
                             <div class="col m4">
@@ -65,38 +65,38 @@
                         <div class="row">
                             <div class="col l4 m6 s12 spacer">
                                 <h3 class="valign-wrapper">
+                                    <img class="gridImg" src="../img/icons/content.svg" alt="">
+                                    <span class="fadeIn medium delayM">Product Design</span>
+                                </h3 >
+                            </div>
+                            <div class="col l4 m6 s12 spacer">
+                                <h3 class="valign-wrapper">
+                                    <img class="gridImg" src="../img/icons/websites.svg" alt="">
+                                    <span class="fadeIn long delayL">User Interface (UI) Design</span>
+                                </h3 >
+                            </div>
+                            <div class="col l4 m6 s12 spacer">
+                                <h3 class="valign-wrapper">
+                                    <img class="gridImg" src="../img/icons/ui_ux.svg" alt="">
+                                    <span class="fadeIn xlong delayXL">User Experience (UX) Design</span>
+                                </h3 >
+                            </div>
+                            <div class="col l4 m6 s12 spacer">
+                                <h3 class="valign-wrapper">
                                     <img class="gridImg" src="../img/icons/graphics.svg" alt="">
                                     <span class="fadeIn medium delayM">Branding</span>
                                 </h3 >
                             </div>
                             <div class="col l4 m6 s12 spacer">
                                 <h3 class="valign-wrapper">
-                                    <img class="gridImg" src="../img/icons/websites.svg" alt="">
-                                    <span class="fadeIn long delayL">iOS Development</span>
-                                </h3 >
-                            </div>
-                            <div class="col l4 m6 s12 spacer">
-                                <h3 class="valign-wrapper">
-                                    <img class="gridImg" src="../img/icons/ui_ux.svg" alt="">
-                                    <span class="fadeIn xlong delayXL">UI/UX Design</span>
-                                </h3 >
-                            </div>
-                            <div class="col l4 m6 s12 spacer">
-                                <h3 class="valign-wrapper">
-                                    <img class="gridImg" src="../img/icons/marketing.svg" alt="">
-                                    <span class="fadeIn xlong delayM">Digital Marketing</span>
-                                </h3 >
-                            </div>
-                            <div class="col l4 m6 s12 spacer">
-                                <h3 class="valign-wrapper">
                                     <img class="gridImg" src="../img/icons/motion.svg" alt="">
-                                    <span class="fadeIn xlong delayL">Motion Graphics</span>
+                                    <span class="fadeIn long delayL">Motion Graphics</span>
                                 </h3 >
                             </div>
                             <div class="col l4 m6 s12">
                                 <h3 class="valign-wrapper">
-                                    <img class="gridImg" src="../img/icons/content.svg" alt="">
-                                    <span class="fadeIn xlong delayXL">Content Strategy</span>
+                                    <img class="gridImg" src="../img/icons/marketing.svg" alt="">
+                                    <span class="fadeIn xlong delayXL">Digital Marketing</span>
                                 </h3 >
                             </div>
                         </div>

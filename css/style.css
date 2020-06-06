@@ -1176,9 +1176,6 @@ textarea.materialize-textarea {
   background-size: contain;
   border-radius: 100%;
   position: relative;
-  -webkit-box-shadow: 0px 17px 52px -20px rgba(0,0,0,0.52);
-  -moz-box-shadow: 0px 17px 52px -20px rgba(0,0,0,0.52);
-  box-shadow: 0px 17px 52px -20px rgba(0,0,0,0.52);
 }
 .p-loader.p-load {
   position: absolute;
@@ -1373,6 +1370,9 @@ li.about-container {
   .valign-wrapper span {
     text-align: right;
   }
+  li.close-container {
+    display: contents;
+  }
 }
 
 @media only screen and (max-width: 992px) and (orientation : landscape) {
@@ -1382,9 +1382,6 @@ li.about-container {
     background: url(../img/portrait_paulo.png) no-repeat center center;
     background-size: contain;
     border-radius: 100%;
-    -webkit-box-shadow: 0px 17px 52px -20px rgba(0,0,0,0.52);
-    -moz-box-shadow: 0px 17px 52px -20px rgba(0,0,0,0.52);
-    box-shadow: 0px 17px 52px -20px rgba(0,0,0,0.52);
   }
   .portrait-container {
     width: 100%;

@@ -30,7 +30,7 @@
 
         <!--respond.js-->
         <script src="//cdnjs.cloudflare.com/ajax/libs/respond.js/1.4.2/respond.min.js"></script>
-        
+
         <!--materialize.css-->
         <link type="text/css" rel="stylesheet" href="../css/materialize.css"  media="all"/>
 
@@ -39,7 +39,7 @@
 
         <!--custom styles-->
         <link type="text/css" rel="stylesheet" href="../css/style.css"  media="all"/>
-        
+
         <!--jquery-->
         <script type="text/javascript" src="https://code.jquery.com/jquery-2.1.1.min.js"></script>
 
@@ -53,7 +53,7 @@
             }
         </script>
         <script src="../js/pace.min.js"></script>
-        
+
     </head>
     <body>
         <!--[if lt IE 8]>
@@ -82,7 +82,7 @@
 
                     <!--Mobile Nav-->
                     <ul class="side-nav" id="mobile">
-                        <li>
+                        <li class="close-container">
                             <a id="close-me" onclick="$('.button-collapse').sideNav('hide');">
                                 <i class="material-icons">close</i>
                             </a>
@@ -90,7 +90,7 @@
                         <li class="portrait-container">
                             <span>
                                 <span class="portrait"></span>
-                            </span> 
+                            </span>
                         </li>
                         <li class="about-container">
                             <div class="about-name">Paulo Custodio</div>

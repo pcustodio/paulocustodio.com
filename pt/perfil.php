@@ -64,42 +64,42 @@
                             </div>
                         </div>
                         <div class="row">
-                            <div class="col l4 m6 s12 spacer">
-                                <h3 class="valign-wrapper">
-                                    <img class="gridImg" src="../img/icons/graphics.svg" alt="">
-                                    <span class="fadeIn medium delayM">Design Gráfico</span>
-                                </h3 >
-                            </div>
-                            <div class="col l4 m6 s12 spacer">
-                                <h3 class="valign-wrapper">
-                                    <img class="gridImg" src="../img/icons/websites.svg" alt="">
-                                    <span class="fadeIn long delayL">Web Development</span>
-                                </h3 >
-                            </div>
-                            <div class="col l4 m6 s12 spacer">
-                                <h3 class="valign-wrapper">
-                                    <img class="gridImg" src="../img/icons/ui_ux.svg" alt="">
-                                    <span class="fadeIn xlong delayXL">UI/UX Design</span>
-                                </h3 >
-                            </div>
-                            <div class="col l4 m6 s12 spacer">
-                                <h3 class="valign-wrapper">
-                                    <img class="gridImg" src="../img/icons/marketing.svg" alt="">
-                                    <span class="fadeIn xlong delayM">Marketing Digital</span>
-                                </h3 >
-                            </div>
-                            <div class="col l4 m6 s12 spacer">
-                                <h3 class="valign-wrapper">
-                                    <img class="gridImg" src="../img/icons/motion.svg" alt="">
-                                    <span class="fadeIn xlong delayL">Animação Gráfica</span>
-                                </h3 >
-                            </div>
-                            <div class="col l4 m6 s12">
-                                <h3 class="valign-wrapper">
-                                    <img class="gridImg" src="../img/icons/content.svg" alt="">
-                                    <span class="fadeIn xlong delayXL">Estratégia de Conteúdo</span>
-                                </h3 >
-                            </div>
+                          <div class="col l4 m6 s12">
+                              <h3 class="valign-wrapper spacer">
+                                  <img class="gridImg" src="../img/icons/content.svg" alt="">
+                                  <span class="fadeIn medium delayM">Product Design</span>
+                              </h3 >
+                          </div>
+                          <div class="col l4 m6 s12 spacer">
+                              <h3 class="valign-wrapper">
+                                  <img class="gridImg" src="../img/icons/websites.svg" alt="">
+                                  <span class="fadeIn long delayL">User Interface (UI) Design</span>
+                              </h3 >
+                          </div>
+                          <div class="col l4 m6 s12 spacer">
+                              <h3 class="valign-wrapper">
+                                  <img class="gridImg" src="../img/icons/ui_ux.svg" alt="">
+                                  <span class="fadeIn xlong delayXL">User Experience (UX) Design</span>
+                              </h3 >
+                          </div>
+                          <div class="col l4 m6 s12 spacer">
+                              <h3 class="valign-wrapper">
+                                  <img class="gridImg" src="../img/icons/graphics.svg" alt="">
+                                  <span class="fadeIn medium delayM">Branding</span>
+                              </h3 >
+                          </div>
+                          <div class="col l4 m6 s12 spacer">
+                              <h3 class="valign-wrapper">
+                                  <img class="gridImg" src="../img/icons/motion.svg" alt="">
+                                  <span class="fadeIn long delayL">Animação</span>
+                              </h3 >
+                          </div>
+                          <div class="col l4 m6 s12">
+                              <h3 class="valign-wrapper">
+                                  <img class="gridImg" src="../img/icons/marketing.svg" alt="">
+                                  <span class="fadeIn xlong delayXL">Marketing Digital</span>
+                              </h3 >
+                          </div>
                         </div>
                     </div>
                 </div>
