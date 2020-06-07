@@ -70,7 +70,7 @@
                         <ul id="nav-mobile" class="hide-on-med-and-down">
                             <li class="<?php echo ($_SERVER['PHP_SELF'] == "/en/index.php" ? "active" : "");?>"><a class="rel" href="/en/">Work<div class="borderBottom blinker short"></div></a></li>
                             <li class="<?php echo ($_SERVER['PHP_SELF'] == "/en/profile.php" ? "active" : "");?>"><a class="rel" href="profile.php">Profile<div class="borderBottom blinker short"></div></a></li>
-                            <li class="<?php echo ($_SERVER['PHP_SELF'] == "/en/hire.php" ? "active" : "");?>"><a class="rel" href="hire.php">Hire<div class="borderBottom blinker short"></div></a></li>
+                            <li class="<?php echo ($_SERVER['PHP_SELF'] == "/en/contact.php" ? "active" : "");?>"><a class="rel" href="contact.php">Contact<div class="borderBottom blinker short"></div></a></li>
                             <li>
                                 <ul class="lang">
                                     <li class="current-lang">en</li>
@@ -98,7 +98,7 @@
                         </li>
                         <li class="<?php echo ($_SERVER['PHP_SELF'] == "/en/index.php" ? "active" : "");?> nav-btn"><a href="/en/">Work</a></li>
                         <li class="<?php echo ($_SERVER['PHP_SELF'] == "/en/profile.php" ? "active" : "");?> nav-btn"><a href="profile.php">Profile</a></li>
-                        <li class="<?php echo ($_SERVER['PHP_SELF'] == "/en/hire.php" ? "active" : "");?> nav-btn"><a href="hire.php">Hire</a></li>
+                        <li class="<?php echo ($_SERVER['PHP_SELF'] == "/en/contact.php" ? "active" : "");?> nav-btn"><a href="contact.php">Contact</a></li>
                         <li>
                             <ul class="about-social">
                                 <li><a target="_blank" href="https://www.linkedin.com/in/paulocustodio"><img src="../img/social/linkedin.svg" alt=""></a></li>

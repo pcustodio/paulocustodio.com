@@ -30,11 +30,11 @@
     <changefreq>weekly</changefreq>
   </url>
   <url>
-    <loc>http://paulocustodio.com/en/hire.php</loc>
+    <loc>http://paulocustodio.com/en/contact.php</loc>
     <xhtml:link 
                  rel="alternate"
                  hreflang="en"
-                 href="http://paulocustodio.com/en/hire.php"
+                 href="http://paulocustodio.com/en/contact.php"
                  />
     <xhtml:link 
                  rel="alternate"
@@ -81,7 +81,7 @@
     <xhtml:link 
                  rel="alternate"
                  hreflang="en"
-                 href="http://paulocustodio.com/en/hire.php"
+                 href="http://paulocustodio.com/en/contact.php"
                  />
     <changefreq>weekly</changefreq>
   </url>
