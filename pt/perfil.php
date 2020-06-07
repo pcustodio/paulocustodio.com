@@ -13,7 +13,7 @@
                         <div class="preloader-background"></div>
                         <div class="row">
                             <div class="col l3 s12">
-                                <h2>quem sou<span class="borderTop goRight long"></span></h2>
+                                <h2>intro<span class="borderTop goRight long"></span></h2>
                             </div>
                         </div>
                         <div class="row">

@@ -15,7 +15,7 @@
                                 <button class="button-filter" data-filter=".ui-ux">ui/ux</button>
                                 <button class="button-filter" data-filter=".branding">branding</button>
                                 <button class="button-filter" data-filter=".illustration">ilustração</button>
-                                <button class="button-filter" data-filter=".digital-marketing">marketing digital</button>
+                                <button class="button-filter" data-filter=".digital-marketing">social</button>
                             </div>
                         </div>
                         <div class="row grid">
