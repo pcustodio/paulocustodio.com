@@ -22,6 +22,10 @@
 
         <!--isotope-->
         <script src="https://unpkg.com/isotope-layout@3/dist/isotope.pkgd.min.js"></script>
+
+        <!--swiper js-->
+        <script src="../js/swiper.min.js?v=5.4.2"></script>
+        <script src="../js/swiper-initializer.js?v=1.0.0"></script>
         
         <!--load all the things!!-->
         <script>
