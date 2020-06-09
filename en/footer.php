@@ -136,6 +136,9 @@
             });
         </script>
 
+        <!--lazysizes-->
+        <script src="../js/lazysizes.min.js?v=5.2.1"></script>
+
         <!--swiper js-->
         <script src="../js/swiper.min.js?v=5.4.2"></script>
         <script src="../js/swiper-initializer.js?v=1.0.0"></script>
