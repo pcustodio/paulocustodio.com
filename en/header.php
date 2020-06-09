@@ -25,7 +25,7 @@
         <meta property="fb:app_id" content="285946311829041"/>
 
         <!--Google Fonts-->
-        <link href="https://fonts.googleapis.com/css?family=Montserrat:100,200,300,400,500,600,700,800" rel="stylesheet">
+        <link rel="stylesheet" href="https://use.typekit.net/yxm5wyz.css">
         <link href="http://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
 
         <!--respond.js-->
