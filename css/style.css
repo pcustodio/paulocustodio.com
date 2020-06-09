@@ -346,7 +346,7 @@ nav .button-collapse i {
   padding-right: 3px;
 }
 .brand-logo {
-  background: url(../img/logo.svg) no-repeat center center;
+  background: url(../img/logo.svg) no-repeat left center;
   width: 105px;
   height: 36px;
 }
