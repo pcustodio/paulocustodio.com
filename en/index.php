@@ -23,7 +23,11 @@
                                 <!-- Card -->
                                 <div class="card">
                                     <div class="card-image">
-                                        <a class="lightup" href="../img/folio/exi_brochure.png" title="">
+                                        <!-- <a class="lightup" href="../img/folio/exi_brochure.png" title=""> --> <!-- Removed temporary for testing -->
+                                        <a class="lightup" href="../img/folio/exi_brochure.png" title=""
+                                            data-gallery="../img/folio/exi_id.png,
+                                                ../img/folio/exi_illustration.png,
+                                                ../img/folio/exi_poster.png">
                                             <img src="../img/folio/thumbs/exi_brochure.png" alt="" title="">
                                         </a>
                                     </div>
