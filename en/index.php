@@ -545,7 +545,7 @@
                     <div class="col l2 s10">
                         <div class="rightBar">
                             <ul class="fadeIn short delayS">
-                                <li>Selected works by Paulo Custodio, a professional Designer based in Lisbon, Portugal</li>
+                                <li>Design Portfolio by Paulo Custodio, a professional based in Lisbon, Portugal.</li>
                             </ul>
                             <span class="goBottom short"></span>
                         </div>
