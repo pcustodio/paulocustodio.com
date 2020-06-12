@@ -1,6 +1,6 @@
 $(window).on('load', function() {
 	function handleLoadedImg(e) {
-		$(e.target);
+		$(e.target)
 			.off('load', handleLoadedImg)
 			.parent().addClass('loaded');
 	}
