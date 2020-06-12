@@ -1,17 +1,26 @@
-$(window).load(function() {
+$(window).on('load', function() {
+	function handleLoadedImg(e) {
+		var $loadedImg = $(e.target);
+		$loadedImg
+			.off('load', handleLoadedImg)
+			.parent().addClass('loaded');
+	}
+
 	$('.lightup[data-gallery]').each(function() {
 		var gallery = $(this).attr('data-gallery').replace(/\n\s*/g, '').split(','),
 			$fluidBoxGhost = $(this).find('.fluidbox__ghost'),
+			$fluidBoxBgFig = $('<figure class="bg-fig"></figure>').appendTo($fluidBoxGhost),
 			$swiper = $('<div class="swiper-container"></div>').appendTo($fluidBoxGhost),
 			$swiperWrap = $('<div class="swiper-wrapper"></div>').appendTo($swiper);
 		
 		this.fluidBoxGhostObj = $fluidBoxGhost;
+		this.fluidBoxBgFigObj = $fluidBoxBgFig;
 		this.swiperObj = null;
 		this.swiperEl = $swiper[0];
 		gallery.unshift($(this).attr('href'));
 
 		for (var i = 0; i < gallery.length; i++)
-			$swiperWrap.append('<div data-background="' + gallery[i] + '" class="swiper-slide swiper-lazy"></div>');
+			$swiperWrap.append('<div class="swiper-slide"><figure class="swiper-fig"><img data-src="' + gallery[i] + '" class="swiper-img"></fig></div>');
 
 		$(this).on('openstart.fluidbox', function() {
 			this.btnPrevObj = $('<button class="gallery-arrow-btn prev"></button>').appendTo(document.body);
@@ -19,11 +28,10 @@ $(window).load(function() {
 			this.paginationObj = $('<div class="gallery-pagination"></div>').appendTo(document.body);
 
 			this.swiperObj = new Swiper(this.swiperEl, {
-				preloadImages: false,
-				lazy: true,
 				effect: 'fade',
 				allowTouchMove: false,
 				loop: true,
+				preloadImages: false,
 				navigation: {
 					nextEl: this.btnNextObj[0],
 					prevEl: this.btnPrevObj[0]
@@ -33,19 +41,42 @@ $(window).load(function() {
 					type: 'bullets'
 				},
 				on: {
-					lazyImageReady: function(slideEl, imageEl) {
-						$(this.el).parent().addClass('hide-bg');
-						var galleryRoot = $(this.el).closest('[data-gallery]')[0];
-						galleryRoot.btnPrevObj.addClass('show');
-						galleryRoot.btnNextObj.addClass('show');
-						galleryRoot.paginationObj.addClass('show');
+					slideChangeTransitionStart: function() {
+						var $swipeImg = $(this.slides[this.activeIndex]).find('.swiper-img');
+						if (!$swipeImg.parent().is('.loaded')) {
+							$swipeImg
+								.on('load', handleLoadedImg)
+								.attr('src', $swipeImg.attr('data-src'))
+								.parent().css('background-image', 'url("' + $swipeImg.attr('src') + '")');
+						}
+					},
+					slideChangeTransitionEnd: function() {
+						var $fluidBoxGhost = $(this.el).parent();
+						if (this.activeIndex !== 1) {
+							$fluidBoxGhost.addClass('hide-bg');
+							$(this.el).addClass('show');
+						}
 					}
 				}
 			});
 		});
 
+		$(this).on('openend.fluidbox', function() {
+			this.btnPrevObj.addClass('show');
+			this.btnNextObj.addClass('show');
+			this.paginationObj.addClass('show');
+		});
+
+		$(this).on('imageloaddone.fluidbox', function() {
+			this.fluidBoxBgFigObj
+				.css('background-image', 'url("' + $(this).attr('href') + '")')
+				.addClass('show');
+			this.fluidBoxGhostObj.addClass('hide-bg');
+		});
+
 		$(this).on('closestart.fluidbox', function() {
 			this.fluidBoxGhostObj.removeClass('hide-bg');
+			$(this.swiperEl).removeClass('show');
 			this.btnPrevObj.remove();
 			this.btnNextObj.remove();
 			this.paginationObj.remove();
