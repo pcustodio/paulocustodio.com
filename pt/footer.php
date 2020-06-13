@@ -18,7 +18,7 @@
 
         <!--fluidBox-->
         <script src="//cdnjs.cloudflare.com/ajax/libs/jquery-throttle-debounce/1.1/jquery.ba-throttle-debounce.min.js"></script>
-        <script src="//cdnjs.cloudflare.com/ajax/libs/fluidbox/2.0.4/js/jquery.fluidbox.min.js"></script>
+        <script src="//cdnjs.cloudflare.com/ajax/libs/fluidbox/2.0.5/js/jquery.fluidbox.min.js"></script>
 
         <!--isotope-->
         <script src="https://unpkg.com/isotope-layout@3/dist/isotope.pkgd.min.js"></script>
@@ -135,6 +135,13 @@
                 });
             });
         </script>
+
+        <!--lazysizes-->
+        <!-- <script src="../js/lazysizes.min.js?v=5.2.1"></script> -->
+
+        <!--swiper js-->
+        <script src="../js/swiper.min.js?v=5.4.2"></script>
+        <script src="../js/swiper-initializer.js?v=1.0.0"></script>
 
         <!--analytics-->
         <script>
