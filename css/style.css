@@ -355,21 +355,22 @@ p:last-child {
   transform: translate(-50%, -50%);
 }
 .gallery-arrow-btn:before {
-  border: 22px solid transparent;
-  border-left-width: 0;
-  border-right-color: #000;
+
 }
 .gallery-arrow-btn:after {
-  border: 21px solid transparent;
-  border-left-width: 1px;
-  border-right-color: #fff;
+
 }
 .gallery-arrow-btn.prev {
   left: 0;
+  background: url(../img/arrow_knee_prev.svg);
+  width: 82px;
+  height: 82px;
 }
 .gallery-arrow-btn.next {
+  background: url(../img/arrow_knee_next.svg);
+  width: 82px;
+  height: 82px;
   right: 0;
-  transform: rotate(180deg);
 }
 .gallery-pagination {
   position: absolute;
