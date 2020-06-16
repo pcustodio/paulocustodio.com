@@ -104,6 +104,9 @@ p a {
 nav a {
   text-decoration: none;
 }
+a.dark{
+  color: #000
+}
 
 /*** Filters ***/
 .button-group button {
@@ -1470,9 +1473,6 @@ li.about-container {
   }
   .side-nav li.active {
     background-color: #fff;
-  }
-  .row .col.m6 p:first-child {
-    display: none;
   }
   .row .col.l3.m0.s0 {
     display: none

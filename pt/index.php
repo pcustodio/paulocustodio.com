@@ -4,7 +4,7 @@
                 <div class="row" id="section1">
                     <div class="col l3 s2" id="sticky-anchor">
                         <div id="sticky">
-                            <h1>showcase<span class="borderTop goRight medium"></span></h1>
+                            <h1>projetos<span class="borderTop goRight medium"></span></h1>
                         </div>
                     </div>
                     <div class="col l6 s10 adjust">
@@ -12,14 +12,27 @@
                         <div class="row spacer compress pacer">
                             <div class="button-group filters-button-group">
                                 <button class="button-filter is-checked" data-filter="*">todos</button>
+                                <button class="button-filter" data-filter=".ios">iOS</button>
                                 <button class="button-filter" data-filter=".ui-ux">ui/ux</button>
-                                <button class="button-filter" data-filter=".branding">branding</button>
-                                <button class="button-filter" data-filter=".illustration">ilustração</button>
-                                <button class="button-filter" data-filter=".digital-marketing">social</button>
+                                <button class="button-filter" data-filter=".graphics">gráficos</button>
                             </div>
                         </div>
                         <div class="row grid">
-                            <div class="col l4 m4 s6 grid-item transition branding">
+                            <div class="col l4 m4 s6 grid-item transition ios">
+                                <!-- Card -->
+                                <div class="card">
+                                    <div class="card-image">
+                                        <!-- <a class="lightup" href="../img/folio/exi_brochure.png" title=""> --> <!-- Removed temporary for testing -->
+                                        <a class="lightup" href="../img/folio/exi_brochure.png" title=""
+                                            data-gallery="../img/folio/exi_id.png,
+                                                ../img/folio/exi_illustration.png,
+                                                ../img/folio/exi_poster.png">
+                                            <img src="../img/folio/thumbs/exi_brochure.png" alt="" title="">
+                                        </a>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col l4 m4 s6 grid-item transition graphics">
                                 <!-- Card -->
                                 <div class="card">
                                     <div class="card-image">
@@ -29,7 +42,7 @@
                                     </div>
                                 </div>
                             </div>
-                            <div class="col l4 m4 s6 grid-item transition branding">
+                            <div class="col l4 m4 s6 grid-item transition graphics">
                                 <!-- Card -->
                                 <div class="card">
                                     <div class="card-image">
@@ -39,7 +52,7 @@
                                     </div>
                                 </div>
                             </div>
-                            <div class="col l4 m4 s6 grid-item transition illustration">
+                            <div class="col l4 m4 s6 grid-item transition graphics">
                                 <!-- Card -->
                                 <div class="card">
                                     <div class="card-image">
@@ -49,7 +62,7 @@
                                     </div>
                                 </div>
                             </div>
-                            <div class="col l4 m4 s6 grid-item transition branding">
+                            <div class="col l4 m4 s6 grid-item transition graphics">
                                 <!-- Card -->
                                 <div class="card">
                                     <div class="card-image">
@@ -69,7 +82,7 @@
                                     </div>
                                 </div>
                             </div>
-                            <div class="col l4 m4 s6 grid-item transition branding">
+                            <div class="col l4 m4 s6 grid-item transition graphics">
                                 <!-- Card -->
                                 <div class="card">
                                     <div class="card-image">
@@ -79,17 +92,7 @@
                                     </div>
                                 </div>
                             </div>
-                            <div class="col l4 m4 s6 grid-item transition digital-marketing">
-                                <!-- Card -->
-                                <div class="card">
-                                    <div class="card-image">
-                                        <a class="lightup" href="../img/folio/exi_social.png" title="">
-                                            <img src="../img/folio/thumbs/exi_social.png" alt="" title="">
-                                        </a>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="col l4 m4 s6 grid-item transition branding">
+                            <div class="col l4 m4 s6 grid-item transition graphics">
                                 <!-- Card -->
                                 <div class="card">
                                     <div class="card-image">
@@ -99,7 +102,7 @@
                                     </div>
                                 </div>
                             </div>
-                            <div class="col l4 m4 s6 grid-item transition branding">
+                            <div class="col l4 m4 s6 grid-item transition graphics">
                                 <!-- Card -->
                                 <div class="card">
                                     <div class="card-image">
@@ -109,7 +112,7 @@
                                     </div>
                                 </div>
                             </div>
-                            <div class="col l4 m4 s6 grid-item transition branding">
+                            <div class="col l4 m4 s6 grid-item transition graphics">
                                 <!-- Card -->
                                 <div class="card">
                                     <div class="card-image">
@@ -119,7 +122,7 @@
                                     </div>
                                 </div>
                             </div>
-                            <div class="col l4 m4 s6 grid-item transition illustration">
+                            <div class="col l4 m4 s6 grid-item transition graphics">
                                 <!-- Card -->
                                 <div class="card">
                                     <div class="card-image">
@@ -139,7 +142,7 @@
                                     </div>
                                 </div>
                             </div>
-                            <div class="col l4 m4 s6 grid-item transition branding">
+                            <div class="col l4 m4 s6 grid-item transition graphics">
                                 <!-- Card -->
                                 <div class="card">
                                     <div class="card-image">
@@ -159,7 +162,7 @@
                                     </div>
                                 </div>
                             </div>
-                            <div class="col l4 m4 s6 grid-item transition illustration">
+                            <div class="col l4 m4 s6 grid-item transition graphics">
                                 <!-- Card -->
                                 <div class="card">
                                     <div class="card-image">
@@ -169,7 +172,7 @@
                                     </div>
                                 </div>
                             </div>
-                            <div class="col l4 m4 s6 grid-item transition branding">
+                            <div class="col l4 m4 s6 grid-item transition graphics">
                                 <!-- Card -->
                                 <div class="card">
                                     <div class="card-image">
@@ -179,7 +182,7 @@
                                     </div>
                                 </div>
                             </div>
-                            <div class="col l4 m4 s6 grid-item transition branding">
+                            <div class="col l4 m4 s6 grid-item transition graphics">
                                 <!-- Card -->
                                 <div class="card">
                                     <div class="card-image">
@@ -199,7 +202,7 @@
                                     </div>
                                 </div>
                             </div>
-                            <div class="col l4 m4 s6 grid-item transition branding">
+                            <div class="col l4 m4 s6 grid-item transition graphics">
                                 <!-- Card -->
                                 <div class="card">
                                     <div class="card-image">
@@ -209,17 +212,7 @@
                                     </div>
                                 </div>
                             </div>
-                            <div class="col l4 m4 s6 grid-item transition digital-marketing">
-                                <!-- Card -->
-                                <div class="card">
-                                    <div class="card-image">
-                                        <a class="lightup" href="../img/folio/ux_social.png" title="">
-                                            <img src="../img/folio/thumbs/ux_social.png" alt="" title="">
-                                        </a>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="col l4 m4 s6 grid-item transition branding">
+                            <div class="col l4 m4 s6 grid-item transition graphics">
                                 <!-- Card -->
                                 <div class="card">
                                     <div class="card-image">
@@ -229,7 +222,7 @@
                                     </div>
                                 </div>
                             </div>
-                            <div class="col l4 m4 s6 grid-item transition illustration">
+                            <div class="col l4 m4 s6 grid-item transition graphics">
                                 <!-- Card -->
                                 <div class="card">
                                     <div class="card-image">
@@ -239,7 +232,7 @@
                                     </div>
                                 </div>
                             </div>
-                            <div class="col l4 m4 s6 grid-item transition branding">
+                            <div class="col l4 m4 s6 grid-item transition graphics">
                                 <!-- Card -->
                                 <div class="card">
                                     <div class="card-image">
@@ -249,7 +242,7 @@
                                     </div>
                                 </div>
                             </div>
-                            <div class="col l4 m4 s6 grid-item transition branding">
+                            <div class="col l4 m4 s6 grid-item transition graphics">
                                 <!-- Card -->
                                 <div class="card">
                                     <div class="card-image">
@@ -259,7 +252,7 @@
                                     </div>
                                 </div>
                             </div>
-                            <div class="col l4 m4 s6 grid-item transition branding">
+                            <div class="col l4 m4 s6 grid-item transition graphics">
                                 <!-- Card -->
                                 <div class="card">
                                     <div class="card-image">
@@ -269,7 +262,7 @@
                                     </div>
                                 </div>
                             </div>
-                            <div class="col l4 m4 s6 grid-item transition branding">
+                            <div class="col l4 m4 s6 grid-item transition graphics">
                                 <!-- Card -->
                                 <div class="card">
                                     <div class="card-image">
@@ -299,16 +292,6 @@
                                     </div>
                                 </div>
                             </div>
-                            <div class="col l4 m4 s6 grid-item transition digital-marketing">
-                                <!-- Card -->
-                                <div class="card">
-                                    <div class="card-image">
-                                        <a class="lightup" href="../img/folio/emprego_social.png" title="">
-                                            <img src="../img/folio/thumbs/emprego_social.png" alt="" title="">
-                                        </a>
-                                    </div>
-                                </div>
-                            </div>
                             <div class="col l4 m4 s6 grid-item transition ui-ux">
                                 <!-- Card -->
                                 <div class="card">
@@ -329,7 +312,7 @@
                                     </div>
                                 </div>
                             </div>
-                            <div class="col l4 m4 s6 grid-item transition branding">
+                            <div class="col l4 m4 s6 grid-item transition graphics">
                                 <!-- Card -->
                                 <div class="card">
                                     <div class="card-image">
@@ -339,7 +322,7 @@
                                     </div>
                                 </div>
                             </div>
-                            <div class="col l4 m4 s6 grid-item transition branding">
+                            <div class="col l4 m4 s6 grid-item transition graphics">
                                 <!-- Card -->
                                 <div class="card">
                                     <div class="card-image">
@@ -359,7 +342,7 @@
                                     </div>
                                 </div>
                             </div>
-                            <div class="col l4 m4 s6 grid-item transition branding">
+                            <div class="col l4 m4 s6 grid-item transition graphics">
                                 <!-- Card -->
                                 <div class="card">
                                     <div class="card-image">
@@ -369,7 +352,7 @@
                                     </div>
                                 </div>
                             </div>
-                            <div class="col l4 m4 s6 grid-item transition branding">
+                            <div class="col l4 m4 s6 grid-item transition graphics">
                                 <!-- Card -->
                                 <div class="card">
                                     <div class="card-image">
@@ -389,7 +372,7 @@
                                     </div>
                                 </div>
                             </div>
-                            <div class="col l4 m4 s6 grid-item transition branding">
+                            <div class="col l4 m4 s6 grid-item transition graphics">
                                 <!-- Card -->
                                 <div class="card">
                                     <div class="card-image">
@@ -409,7 +392,7 @@
                                     </div>
                                 </div>
                             </div>
-                            <div class="col l4 m4 s6 grid-item transition branding">
+                            <div class="col l4 m4 s6 grid-item transition graphics">
                                 <!-- Card -->
                                 <div class="card">
                                     <div class="card-image">
@@ -429,7 +412,7 @@
                                     </div>
                                 </div>
                             </div>
-                            <div class="col l4 m4 s6 grid-item transition illustration">
+                            <div class="col l4 m4 s6 grid-item transition graphics">
                                 <!-- Card -->
                                 <div class="card">
                                     <div class="card-image">
@@ -439,7 +422,7 @@
                                     </div>
                                 </div>
                             </div>
-                            <div class="col l4 m4 s6 grid-item transition illustration">
+                            <div class="col l4 m4 s6 grid-item transition graphics">
                                 <!-- Card -->
                                 <div class="card">
                                     <div class="card-image">
@@ -449,7 +432,7 @@
                                     </div>
                                 </div>
                             </div>
-                            <div class="col l4 m4 s6 grid-item transition branding">
+                            <div class="col l4 m4 s6 grid-item transition graphics">
                                 <!-- Card -->
                                 <div class="card">
                                     <div class="card-image">
@@ -459,7 +442,7 @@
                                     </div>
                                 </div>
                             </div>
-                            <div class="col l4 m4 s6 grid-item transition branding">
+                            <div class="col l4 m4 s6 grid-item transition graphics">
                                 <!-- Card -->
                                 <div class="card">
                                     <div class="card-image">
@@ -489,7 +472,7 @@
                                     </div>
                                 </div>
                             </div>
-                            <div class="col l4 m4 s6 grid-item transition illustration">
+                            <div class="col l4 m4 s6 grid-item transition graphics">
                                 <!-- Card -->
                                 <div class="card">
                                     <div class="card-image">
@@ -545,7 +528,8 @@
                     <div class="col l2 s10">
                         <div class="rightBar">
                             <ul class="fadeIn short delayS">
-                                <li>Design Portfolio Design de Paulo Custodio, um  profissional baseado em Lisboa, Portugal</li>
+                                <li>Portfolio de Paulo Custodio, um Designer & iOS Developer baseado em Lisboa, Portugal.</li>
+                                <li><br>Consulte o <a class="dark" href="https://www.linkedin.com/in/paulocustodio" target="_blank">meu perfil Linkedin</a> para mais detalhes.</li>
                             </ul>
                             <span class="goBottom short"></span>
                         </div>
@@ -573,7 +557,7 @@
                 if($(window).scrollTop() > $('#section1').offset().top
                     && $(window).scrollTop() < $('#section1').offset().top + $('#section1').outerHeight(true)
                 ){
-                    $('#sticky').find('h1').html('showcase<div class="borderTopFixed"></div>');
+                    $('#sticky').find('h1').html('projetos<div class="borderTopFixed"></div>');
                 }
                 });
             });

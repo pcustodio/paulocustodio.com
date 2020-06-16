@@ -8,7 +8,6 @@
                     <li><a target="_blank" href="https://www.linkedin.com/in/paulocustodio"><img src="../img/social/linkedin.svg" alt=""></a></li>
                     <li><a target="_blank" href="https://www.behance.net/paulocustodio"><img src="../img/social/behance.svg" alt=""></a></li>
                     <li><a target="_blank" href="https://www.facebook.com/getcustodio"><img src="../img/social/fb.svg" alt=""></a></li>
-                    <li><a target="_blank" href="https://twitter.com/paulocustodio"><img src="../img/social/twitter.svg" alt=""></a></li>
                 </ul>
             </div>
         </footer>
@@ -22,10 +21,10 @@
 
         <!--isotope-->
         <script src="https://unpkg.com/isotope-layout@3/dist/isotope.pkgd.min.js"></script>
-        
+
         <!--load all the things!!-->
         <script>
-            $(window).load(function(){ 
+            $(window).load(function(){
 
                 // preload
                 $('.preloader-background').fadeOut(1500);
@@ -101,7 +100,7 @@
                             function visPx(){
                             var H = $(this).height(),
                                 r = el.getBoundingClientRect(), t=r.top, b=r.bottom;
-                            return cb.call(el, Math.max(0, t>0? H-t : (b<H?b:H)));  
+                            return cb.call(el, Math.max(0, t>0? H-t : (b<H?b:H)));
                         } visPx();
                         $(win).on("resize scroll", visPx);
                     });

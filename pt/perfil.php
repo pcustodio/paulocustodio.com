@@ -60,46 +60,46 @@
                         <div class="preloader-background"></div>
                         <div class="row">
                             <div class="col l3 s12">
-                                <h2>serviços<span class="borderTop"></span></h2>
+                                <h2>competências<span class="borderTop"></span></h2>
                             </div>
                         </div>
                         <div class="row">
-                          <div class="col l4 m6 s12">
-                              <h3 class="valign-wrapper spacer">
-                                  <img class="gridImg" src="../img/icons/content.svg" alt="">
-                                  <span class="fadeIn medium delayM">Product Design</span>
-                              </h3 >
-                          </div>
-                          <div class="col l4 m6 s12 spacer">
-                              <h3 class="valign-wrapper">
-                                  <img class="gridImg" src="../img/icons/websites.svg" alt="">
-                                  <span class="fadeIn long delayL">User Interface (UI) Design</span>
-                              </h3 >
-                          </div>
-                          <div class="col l4 m6 s12 spacer">
-                              <h3 class="valign-wrapper">
-                                  <img class="gridImg" src="../img/icons/ui_ux.svg" alt="">
-                                  <span class="fadeIn xlong delayXL">User Experience (UX) Design</span>
-                              </h3 >
-                          </div>
-                          <div class="col l4 m6 s12 spacer">
-                              <h3 class="valign-wrapper">
-                                  <img class="gridImg" src="../img/icons/graphics.svg" alt="">
-                                  <span class="fadeIn medium delayM">Branding</span>
-                              </h3 >
-                          </div>
-                          <div class="col l4 m6 s12 spacer">
-                              <h3 class="valign-wrapper">
-                                  <img class="gridImg" src="../img/icons/motion.svg" alt="">
-                                  <span class="fadeIn long delayL">Animação</span>
-                              </h3 >
-                          </div>
-                          <div class="col l4 m6 s12">
-                              <h3 class="valign-wrapper">
-                                  <img class="gridImg" src="../img/icons/marketing.svg" alt="">
-                                  <span class="fadeIn xlong delayXL">Marketing Digital</span>
-                              </h3 >
-                          </div>
+                            <div class="col l4 m6 s12 spacer">
+                                <h3 class="valign-wrapper">
+                                    <img class="gridImg" src="../img/icons/mobile.svg" alt="">
+                                    <span class="fadeIn medium delayM">Programação iOS</span>
+                                </h3 >
+                            </div>
+                            <div class="col l4 m6 s12 spacer">
+                                <h3 class="valign-wrapper">
+                                    <img class="gridImg" src="../img/icons/ui.svg" alt="">
+                                    <span class="fadeIn long delayL">UI Design</span>
+                                </h3 >
+                            </div>
+                            <div class="col l4 m6 s12 spacer">
+                                <h3 class="valign-wrapper">
+                                    <img class="gridImg" src="../img/icons/ux.svg" alt="">
+                                    <span class="fadeIn xlong delayXL">UX Design</span>
+                                </h3 >
+                            </div>
+                            <div class="col l4 m6 s12 spacer">
+                                <h3 class="valign-wrapper">
+                                    <img class="gridImg" src="../img/icons/websites.svg" alt="">
+                                    <span class="fadeIn medium delayM">Web Design</span>
+                                </h3 >
+                            </div>
+                            <div class="col l4 m6 s12 spacer">
+                                <h3 class="valign-wrapper">
+                                    <img class="gridImg" src="../img/icons/graphics.svg" alt="">
+                                    <span class="fadeIn long delayL">Branding</span>
+                                </h3 >
+                            </div>
+                            <div class="col l4 m6 s12">
+                                <h3 class="valign-wrapper">
+                                    <img class="gridImg" src="../img/icons/marketing.svg" alt="">
+                                    <span class="fadeIn xlong delayXL">Marketing Digital</span>
+                                </h3 >
+                            </div>
                         </div>
                     </div>
                 </div>
@@ -226,7 +226,7 @@
                 }else if($(window).scrollTop() > $('#section2').offset().top
                     && $(window).scrollTop() < $('#section2').offset().top + $('#section2').outerHeight(true)
                 ){
-                    $('#sticky').find('h1').html('serviços<div class="borderTopFixed"></div>');
+                    $('#sticky').find('h1').html('competências<div class="borderTopFixed"></div>');
                 }else if($(window).scrollTop() > $('#section3').offset().top
                     && $(window).scrollTop() < $('#section3').offset().top + $('#section3').outerHeight(true)
                 ){

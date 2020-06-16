@@ -48,7 +48,7 @@
                         <div class="rightBar">
                             <ul class="fadeIn short delayS">
                                 <li>
-                                    +351  91 24 396 24
+                                    (+351) 91 2439624
                                 </li>
                                 <li>
                                     info@paulocustodio.com
@@ -57,6 +57,6 @@
                             <span class="goBottom short"></span>
                         </div>
                     </div>
-                </div>                              
+                </div>
         </main>
         <?php include 'footer.php'; ?>

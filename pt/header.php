@@ -3,8 +3,8 @@
     <head>
         <meta charset="utf-8">
         <meta http-equiv="x-ua-compatible" content="ie=edge">
-        <title>Paulo Custodio - Design Portfolio</title>
-        <meta name="description" content="Trabalho recente de Paulo Custodio, um Designer profissional baseado em Lisboa, Portugal">
+        <title>Paulo Custodio - Design e Desenvolvimento iOS</title>
+        <meta name="description" content="Portfolio de Paulo Custodio, um Designer & iOS Developer baseado em Lisboa, Portugal">
         <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
 
         <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
@@ -16,8 +16,8 @@
         <meta name="application-name" content="Paulo Custodio">
         <meta name="theme-color" content="#ffffff">
 
-        <meta property="og:title" content="Paulo Custodio - Design Portfolio">
-        <meta property="og:description" content="Trabalho recente de Paulo Custodio, um Designer profissional baseado em Lisboa, Portugal">
+        <meta property="og:title" content="Paulo Custodio - Design e Desenvolvimento iOS">
+        <meta property="og:description" content="Portfolio de Paulo Custodio, um Designer & iOS Developer baseado em Lisboa, Portugal">
         <meta property="og:type" content="website">
         <meta property="og:url" content="http://paulocustodio.com/pt/">
         <meta property="og:image" content="http://paulocustodio.com/og_logo.png">
@@ -97,7 +97,7 @@
                         </li>
                         <li class="about-container">
                             <div class="about-name">Paulo Custodio</div>
-                            <div class="about-role">Designer</div>
+                            <div class="about-role">Designer e Programador iOS</div>
                         </li>
                         <li class="<?php echo ($_SERVER['PHP_SELF'] == "/pt/index.php" ? "active" : "");?> nav-btn"><a href="/pt/">Projectos</a></li>
                         <li class="<?php echo ($_SERVER['PHP_SELF'] == "/pt/perfil.php" ? "active" : "");?> nav-btn"><a href="perfil.php">Perfil</a></li>
