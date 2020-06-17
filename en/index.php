@@ -18,16 +18,14 @@
                             </div>
                         </div>
                         <div class="row grid">
-                            <div class="col l4 m4 s6 grid-item transition ios">
+                            <div class="col l4 m4 s6 grid-item transition ui-ux">
                                 <!-- Card -->
                                 <div class="card">
                                     <div class="card-image">
-                                        <!-- <a class="lightup" href="../img/folio/exi_brochure.png" title=""> --> <!-- Removed temporary for testing -->
-                                        <a class="lightup" href="../img/folio/exi_brochure.png" title=""
-                                            data-gallery="../img/folio/exi_id.png,
-                                                ../img/folio/exi_illustration.png,
-                                                ../img/folio/exi_poster.png">
-                                            <img src="../img/folio/thumbs/exi_brochure.png" alt="" title="">
+                                        <a class="lightup" href="../img/folio/iron_app_01.png" title=""
+                                            data-gallery="../img/folio/iron_app_02.png,
+                                                ../img/folio/iron_app_03.png">
+                                            <img src="../img/folio/thumbs/iron_app_01.png" alt="" title="">
                                         </a>
                                     </div>
                                 </div>
@@ -48,6 +46,26 @@
                                     <div class="card-image">
                                         <a class="lightup" href="../img/folio/exi_id.png" title="">
                                             <img src="../img/folio/thumbs/exi_id.png" alt="" title="">
+                                        </a>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col l4 m4 s6 grid-item transition ui-ux">
+                                <!-- Card -->
+                                <div class="card">
+                                    <div class="card-image">
+                                        <a class="lightup" href="../img/folio/hd_app.png" title="">
+                                            <img src="../img/folio/thumbs/hd_app.png" alt="" title="">
+                                        </a>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col l4 m4 s6 grid-item transition graphics">
+                                <!-- Card -->
+                                <div class="card">
+                                    <div class="card-image">
+                                        <a class="lightup" href="../img/folio/pc_poster.png" title="">
+                                            <img src="../img/folio/thumbs/pc_poster.png" alt="" title="">
                                         </a>
                                     </div>
                                 </div>
@@ -352,6 +370,16 @@
                                     </div>
                                 </div>
                             </div>
+                            <div class="col l4 m4 s6 grid-item transition ui-ux">
+                                <!-- Card -->
+                                <div class="card">
+                                    <div class="card-image">
+                                        <a class="lightup" href="../img/folio/ts_website.png" title="">
+                                            <img src="../img/folio/thumbs/ts_website.png" alt="" title="">
+                                        </a>
+                                    </div>
+                                </div>
+                            </div>
                             <div class="col l4 m4 s6 grid-item transition graphics">
                                 <!-- Card -->
                                 <div class="card">
@@ -529,7 +557,7 @@
                         <div class="rightBar">
                             <ul class="fadeIn short delayS">
                                 <li>Selected works by Paulo Custodio, a professional Designer & iOS Developer based in Lisbon, Portugal.</li>
-                                <li><br>View <a class="dark" href="https://www.linkedin.com/in/paulocustodio" target="_blank">my Linkedin profile</a> for further career details.</li>
+                                <li><br>Head over to <a class="dark" href="https://www.linkedin.com/in/paulocustodio" target="_blank">Linkedin</a> for further career details.</li>
                             </ul>
                             <span class="goBottom short"></span>
                         </div>

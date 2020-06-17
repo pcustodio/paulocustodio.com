@@ -25,8 +25,8 @@
                                 </div>
                             </div>
                             <div class="col l9 m6 s12">
-                                <p>I design and code digital products which embrace a unique visual spectrum and function seamlessly to empower end-users.</p>
-                                <p>Working alongside stakeholders and teams, I apply a iterative problem-solving approach aimed at unlocking purposeful user-driven experiences.</p>
+                                <p>I help build digital products which embrace a unique visual spectrum in parallel with seamless functionality, and generate persistent end-user engagement.</p>
+                                <p>Working alongside stakeholders and teams, I apply a iterative problem-solving approach aimed at unlocking purposeful user-driven design and code.</p>
                             </div>
                             <div class="col m2"></div>
                             <div class="col m4">
@@ -110,7 +110,7 @@
                         <div class="preloader-background"></div>
                         <div class="row">
                             <div class="col l3 s12">
-                                <h2>past employers<span class="borderTop"></span></h2>
+                                <h2>employers<span class="borderTop"></span></h2>
                             </div>
                         </div>
                         <div class="row clients">
@@ -229,7 +229,7 @@
                 }else if($(window).scrollTop() > $('#section3').offset().top
                     && $(window).scrollTop() < $('#section3').offset().top + $('#section3').outerHeight(true)
                 ){
-                    $('#sticky').find('h1').html('past employers<div class="borderTopFixed"></div>');
+                    $('#sticky').find('h1').html('employers<div class="borderTopFixed"></div>');
                 }
                 });
             });

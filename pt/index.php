@@ -4,7 +4,7 @@
                 <div class="row" id="section1">
                     <div class="col l3 s2" id="sticky-anchor">
                         <div id="sticky">
-                            <h1>projetos<span class="borderTop goRight medium"></span></h1>
+                            <h1>showcase<span class="borderTop goRight medium"></span></h1>
                         </div>
                     </div>
                     <div class="col l6 s10 adjust">
@@ -529,7 +529,7 @@
                         <div class="rightBar">
                             <ul class="fadeIn short delayS">
                                 <li>Portfolio de Paulo Custodio, um Designer & iOS Developer baseado em Lisboa, Portugal.</li>
-                                <li><br>Consulte o <a class="dark" href="https://www.linkedin.com/in/paulocustodio" target="_blank">meu perfil Linkedin</a> para mais detalhes.</li>
+                                <li><br>Consulte o <a class="dark" href="https://www.linkedin.com/in/paulocustodio" target="_blank">Linkedin</a> para mais detalhes.</li>
                             </ul>
                             <span class="goBottom short"></span>
                         </div>
@@ -557,7 +557,7 @@
                 if($(window).scrollTop() > $('#section1').offset().top
                     && $(window).scrollTop() < $('#section1').offset().top + $('#section1').outerHeight(true)
                 ){
-                    $('#sticky').find('h1').html('projetos<div class="borderTopFixed"></div>');
+                    $('#sticky').find('h1').html('showcase<div class="borderTopFixed"></div>');
                 }
                 });
             });
