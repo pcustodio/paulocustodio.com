@@ -115,7 +115,8 @@
                                 <div class="card">
                                     <div class="card-image">
                                         <a class="lightup" href="../img/folio/hd_01.png" title=""
-                                            data-gallery="../img/folio/hd_02.png">
+                                            data-gallery="../img/folio/hd_02.png,
+                                                ../img/folio/hd_03.png">
                                             <img src="../img/folio/thumbs/hd_01.png" alt="" title="">
                                         </a>
                                     </div>
