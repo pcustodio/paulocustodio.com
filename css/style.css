@@ -343,7 +343,7 @@ p:last-child {
   background: #fff;
   width: 82px;
   height: 82px;
-  position: absolute;
+  position: fixed;
   top: 50%;
   transform: translateY(-50%);
   border: none;
@@ -365,18 +365,18 @@ p:last-child {
 }
 .gallery-arrow-btn.prev {
   left: 0;
-  background: url(../img/arrow_knee_prev.svg);
+  background: url(../img/arrow_knee_prev.svg) no-repeat center center;
   width: 82px;
-  height: 82px;
+  height: 100vh;
 }
 .gallery-arrow-btn.next {
-  background: url(../img/arrow_knee_next.svg);
+  background: url(../img/arrow_knee_next.svg) no-repeat center center;
   width: 82px;
-  height: 82px;
+  height: 100vh;
   right: 0;
 }
 .gallery-pagination {
-  position: absolute;
+  position: fixed;
   left: 50%;
   bottom: 30px;
   transform: translateX(-50%);

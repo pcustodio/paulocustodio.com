@@ -110,6 +110,17 @@
                                     </div>
                                 </div>
                             </div>
+                            <div class="col l4 m4 s6 grid-item transition ui-ux">
+                                <!-- Card -->
+                                <div class="card">
+                                    <div class="card-image">
+                                        <a class="lightup" href="../img/folio/hd_01.png" title=""
+                                            data-gallery="../img/folio/hd_02.png">
+                                            <img src="../img/folio/thumbs/hd_01.png" alt="" title="">
+                                        </a>
+                                    </div>
+                                </div>
+                            </div>
                             <div class="col l4 m4 s6 grid-item transition graphics">
                                 <!-- Card -->
                                 <div class="card">
