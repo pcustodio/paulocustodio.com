@@ -278,16 +278,6 @@
                                 <!-- Card -->
                                 <div class="card">
                                     <div class="card-image">
-                                        <a class="lightup" href="../img/folio/206_photoshoot.png" title="">
-                                            <img src="../img/folio/thumbs/206_photoshoot.png" alt="" title="">
-                                        </a>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="col l4 m4 s6 grid-item transition graphics">
-                                <!-- Card -->
-                                <div class="card">
-                                    <div class="card-image">
                                         <a class="lightup" href="../img/folio/340ml_flyers_two.png" title="">
                                             <img src="../img/folio/thumbs/340ml_flyers_two.png" alt="" title="">
                                         </a>
@@ -344,6 +334,16 @@
                                     </div>
                                 </div>
                             </div>
+                            <div class="col l4 m4 s6 grid-item transition graphics">
+                                <!-- Card -->
+                                <div class="card">
+                                    <div class="card-image">
+                                        <a class="lightup" href="../img/folio/206_photoshoot.png" title="">
+                                            <img src="../img/folio/thumbs/206_photoshoot.png" alt="" title="">
+                                        </a>
+                                    </div>
+                                </div>
+                            </div>
                             <div class="col l4 m4 s6 grid-item transition design">
                                 <!-- Card -->
                                 <div class="card">
@@ -394,6 +394,7 @@
                                     </div>
                                 </div>
                             </div>
+
                             <div class="col l4 m4 s6 grid-item transition ui-ux">
                                 <!-- Card -->
                                 <div class="card">
@@ -410,6 +411,16 @@
                                     <div class="card-image">
                                         <a class="lightup" href="../img/folio/cfm_rollup.png" title="">
                                             <img src="../img/folio/thumbs/cfm_rollup.png" alt="" title="">
+                                        </a>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col l4 m4 s6 grid-item transition graphics">
+                                <!-- Card -->
+                                <div class="card">
+                                    <div class="card-image">
+                                        <a class="lightup" href="../img/folio/xmas.png" title="">
+                                            <img src="../img/folio/thumbs/xmas.png" alt="" title="">
                                         </a>
                                     </div>
                                 </div>
