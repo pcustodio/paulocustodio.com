@@ -34,6 +34,16 @@
                                 <!-- Card -->
                                 <div class="card">
                                     <div class="card-image">
+                                        <a class="lightup" href="../img/folio/wukela_id.png" title="">
+                                            <img src="../img/folio/thumbs/wukela_id.png" alt="" title="">
+                                        </a>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col l4 m4 s6 grid-item transition graphics">
+                                <!-- Card -->
+                                <div class="card">
+                                    <div class="card-image">
                                         <a class="lightup" href="../img/folio/exi_brochure.png" title="">
                                             <img src="../img/folio/thumbs/exi_brochure.png" alt="" title="">
                                         </a>
@@ -394,7 +404,6 @@
                                     </div>
                                 </div>
                             </div>
-
                             <div class="col l4 m4 s6 grid-item transition ui-ux">
                                 <!-- Card -->
                                 <div class="card">
@@ -531,6 +540,16 @@
                                     <div class="card-image">
                                         <a class="lightup" href="../img/folio/tchimtchim_website.png" title="">
                                             <img src="../img/folio/thumbs/tchimtchim_website.png" alt="" title="">
+                                        </a>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col l4 m4 s6 grid-item transition graphics">
+                                <!-- Card -->
+                                <div class="card">
+                                    <div class="card-image">
+                                        <a class="lightup" href="../img/folio/q21_id.png" title="">
+                                            <img src="../img/folio/thumbs/q21_id.png" alt="" title="">
                                         </a>
                                     </div>
                                 </div>
