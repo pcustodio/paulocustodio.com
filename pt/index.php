@@ -22,12 +22,40 @@
                                 <!-- Card -->
                                 <div class="card">
                                     <div class="card-image">
-                                        <!-- <a class="lightup" href="../img/folio/exi_brochure.png" title=""> --> <!-- Removed temporary for testing -->
-                                        <a class="lightup" href="../img/folio/exi_brochure.png" title=""
-                                            data-gallery="../img/folio/exi_id.png,
-                                                ../img/folio/exi_illustration.png,
-                                                ../img/folio/exi_poster.png">
-                                            <img src="../img/folio/thumbs/exi_brochure.png" alt="" title="">
+                                        <a class="lightup" href="../img/folio/wukela_app.png" title="">
+                                            <img src="../img/folio/thumbs/wukela_app.png" alt="" title="">
+                                        </a>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col l4 m4 s6 grid-item transition ios">
+                                <!-- Card -->
+                                <div class="card">
+                                    <div class="card-image">
+                                        <a class="lightup" href="../img/folio/nlumi_app.png" title="">
+                                            <img src="../img/folio/thumbs/nlumi_app.png" alt="" title="">
+                                        </a>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col l4 m4 s6 grid-item transition ui-ux">
+                                <!-- Card -->
+                                <div class="card">
+                                    <div class="card-image">
+                                        <a class="lightup" href="../img/folio/iron_app_01.png" title=""
+                                            data-gallery="../img/folio/iron_app_02.png,
+                                                ../img/folio/iron_app_03.png">
+                                            <img src="../img/folio/thumbs/iron_app_01.png" alt="" title="">
+                                        </a>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col l4 m4 s6 grid-item transition graphics">
+                                <!-- Card -->
+                                <div class="card">
+                                    <div class="card-image">
+                                        <a class="lightup" href="../img/folio/wukela_id.png" title="">
+                                            <img src="../img/folio/thumbs/wukela_id.png" alt="" title="">
                                         </a>
                                     </div>
                                 </div>
@@ -48,6 +76,26 @@
                                     <div class="card-image">
                                         <a class="lightup" href="../img/folio/exi_id.png" title="">
                                             <img src="../img/folio/thumbs/exi_id.png" alt="" title="">
+                                        </a>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col l4 m4 s6 grid-item transition ui-ux">
+                                <!-- Card -->
+                                <div class="card">
+                                    <div class="card-image">
+                                        <a class="lightup" href="../img/folio/hd_app.png" title="">
+                                            <img src="../img/folio/thumbs/hd_app.png" alt="" title="">
+                                        </a>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col l4 m4 s6 grid-item transition graphics">
+                                <!-- Card -->
+                                <div class="card">
+                                    <div class="card-image">
+                                        <a class="lightup" href="../img/folio/pc_poster.png" title="">
+                                            <img src="../img/folio/thumbs/pc_poster.png" alt="" title="">
                                         </a>
                                     </div>
                                 </div>
@@ -88,6 +136,18 @@
                                     <div class="card-image">
                                         <a class="lightup" href="../img/folio/exi_folder.png" title="">
                                             <img src="../img/folio/thumbs/exi_folder.png" alt="" title="">
+                                        </a>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col l4 m4 s6 grid-item transition ui-ux">
+                                <!-- Card -->
+                                <div class="card">
+                                    <div class="card-image">
+                                        <a class="lightup" href="../img/folio/hd_01.png" title=""
+                                            data-gallery="../img/folio/hd_02.png,
+                                                ../img/folio/hd_03.png">
+                                            <img src="../img/folio/thumbs/hd_01.png" alt="" title="">
                                         </a>
                                     </div>
                                 </div>
@@ -138,6 +198,18 @@
                                     <div class="card-image">
                                         <a class="lightup" href="../img/folio/qcenter_website.png" title="">
                                             <img src="../img/folio/thumbs/qcenter_website.png" alt="" title="">
+                                        </a>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col l4 m4 s6 grid-item transition ui-ux">
+                                <!-- Card -->
+                                <div class="card">
+                                    <div class="card-image">
+                                        <a class="lightup" href="../img/folio/stock_01.png" title=""
+                                            data-gallery="../img/folio/stock_02.png,
+                                                ../img/folio/stock_03.png">
+                                            <img src="../img/folio/thumbs/stock_01.png" alt="" title="">
                                         </a>
                                     </div>
                                 </div>
@@ -236,16 +308,6 @@
                                 <!-- Card -->
                                 <div class="card">
                                     <div class="card-image">
-                                        <a class="lightup" href="../img/folio/206_photoshoot.png" title="">
-                                            <img src="../img/folio/thumbs/206_photoshoot.png" alt="" title="">
-                                        </a>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="col l4 m4 s6 grid-item transition graphics">
-                                <!-- Card -->
-                                <div class="card">
-                                    <div class="card-image">
                                         <a class="lightup" href="../img/folio/340ml_flyers_two.png" title="">
                                             <img src="../img/folio/thumbs/340ml_flyers_two.png" alt="" title="">
                                         </a>
@@ -302,6 +364,16 @@
                                     </div>
                                 </div>
                             </div>
+                            <div class="col l4 m4 s6 grid-item transition graphics">
+                                <!-- Card -->
+                                <div class="card">
+                                    <div class="card-image">
+                                        <a class="lightup" href="../img/folio/206_photoshoot.png" title="">
+                                            <img src="../img/folio/thumbs/206_photoshoot.png" alt="" title="">
+                                        </a>
+                                    </div>
+                                </div>
+                            </div>
                             <div class="col l4 m4 s6 grid-item transition design">
                                 <!-- Card -->
                                 <div class="card">
@@ -352,12 +424,32 @@
                                     </div>
                                 </div>
                             </div>
+                            <div class="col l4 m4 s6 grid-item transition ui-ux">
+                                <!-- Card -->
+                                <div class="card">
+                                    <div class="card-image">
+                                        <a class="lightup" href="../img/folio/ts_website.png" title="">
+                                            <img src="../img/folio/thumbs/ts_website.png" alt="" title="">
+                                        </a>
+                                    </div>
+                                </div>
+                            </div>
                             <div class="col l4 m4 s6 grid-item transition graphics">
                                 <!-- Card -->
                                 <div class="card">
                                     <div class="card-image">
                                         <a class="lightup" href="../img/folio/cfm_rollup.png" title="">
                                             <img src="../img/folio/thumbs/cfm_rollup.png" alt="" title="">
+                                        </a>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col l4 m4 s6 grid-item transition graphics">
+                                <!-- Card -->
+                                <div class="card">
+                                    <div class="card-image">
+                                        <a class="lightup" href="../img/folio/xmas.png" title="">
+                                            <img src="../img/folio/thumbs/xmas.png" alt="" title="">
                                         </a>
                                     </div>
                                 </div>
@@ -468,6 +560,16 @@
                                     <div class="card-image">
                                         <a class="lightup" href="../img/folio/tchimtchim_website.png" title="">
                                             <img src="../img/folio/thumbs/tchimtchim_website.png" alt="" title="">
+                                        </a>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col l4 m4 s6 grid-item transition graphics">
+                                <!-- Card -->
+                                <div class="card">
+                                    <div class="card-image">
+                                        <a class="lightup" href="../img/folio/q21_id.png" title="">
+                                            <img src="../img/folio/thumbs/q21_id.png" alt="" title="">
                                         </a>
                                     </div>
                                 </div>
