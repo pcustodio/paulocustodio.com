@@ -18,6 +18,26 @@
                             </div>
                         </div>
                         <div class="row grid">
+                            <div class="col l4 m4 s6 grid-item transition ios">
+                                <!-- Card -->
+                                <div class="card">
+                                    <div class="card-image">
+                                        <a class="lightup" href="../img/folio/wukela_app.png" title="">
+                                            <img src="../img/folio/thumbs/wukela_app.png" alt="" title="">
+                                        </a>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col l4 m4 s6 grid-item transition ios">
+                                <!-- Card -->
+                                <div class="card">
+                                    <div class="card-image">
+                                        <a class="lightup" href="../img/folio/nlumi_app.png" title="">
+                                            <img src="../img/folio/thumbs/nlumi_app.png" alt="" title="">
+                                        </a>
+                                    </div>
+                                </div>
+                            </div>
                             <div class="col l4 m4 s6 grid-item transition ui-ux">
                                 <!-- Card -->
                                 <div class="card">
