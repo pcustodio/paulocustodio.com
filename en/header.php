@@ -35,7 +35,7 @@
         <link type="text/css" rel="stylesheet" href="../css/materialize.css"  media="all"/>
 
         <!--fluidbox-->
-        <link type="text/css" rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fluidbox/2.0.5/css/fluidbox.min.css"  media="all"/>
+        <link type="text/css" rel="stylesheet" href="../css/fluidbox.min.css"  media="all"/>
 
         <!--swiper css-->
         <link rel="stylesheet" type="text/css" href="../css/swiper.min.css?v=5.4.2">
