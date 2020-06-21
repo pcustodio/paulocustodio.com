@@ -32,7 +32,8 @@
                                 <!-- Card -->
                                 <div class="card">
                                     <div class="card-image">
-                                        <a class="lightup" href="../img/folio/nlumi_app.png" title="">
+                                        <a class="lightup" href="../img/folio/nlumi_app.png" title=""
+                                            data-gallery="../img/folio/nlumi_app_02.png">
                                             <img src="../img/folio/thumbs/nlumi_app.png" alt="" title="">
                                         </a>
                                     </div>
