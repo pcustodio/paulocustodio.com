@@ -26,6 +26,10 @@
                                             data-gallery="../img/folio/wukela_app_02.png">
                                             <img src="../img/folio/thumbs/wukela_app.png" alt="" title="">
                                         </a>
+                                        <div class="caption-wrap">
+                                            <p>Testing captions here</p>
+                                            <p>And here...</p>
+                                        </div>
                                     </div>
                                 </div>
                             </div>
@@ -37,6 +41,11 @@
                                             data-gallery="../img/folio/nlumi_app_02.png">
                                             <img src="../img/folio/thumbs/nlumi_app.png" alt="" title="">
                                         </a>
+                                        <div class="caption-wrap">
+                                            <p>More testing captions here</p>
+                                            <p>And here aswell...</p>
+                                            <p>Yet another test</p>
+                                        </div>
                                     </div>
                                 </div>
                             </div>
