@@ -281,6 +281,37 @@ p:last-child {
   cursor: zoom-in;
 }
 
+/*** Fluidbox Captions ***/
+.card .caption-wrap {
+  display: none;
+}
+body > .caption-wrap {
+  position: absolute;
+  left: 12%;
+  bottom: 57px;
+  z-index: 2000;
+  line-height: 0;
+}
+body > .caption-wrap br {
+  display: block;
+}
+body > .caption-wrap br:first-child {
+  display: none;
+}
+body > .caption-wrap p {
+  display: inline-block;
+  font-size: 11px;
+  line-height: 15px;
+  padding: 0 25px 0 5px;
+  background: #201d1e;
+  margin: 0 0 3px;
+  color: #fff;
+  text-transform: lowercase;
+}
+body > .caption-wrap p:last-child {
+  margin: 0;
+}
+
 /*** Gallery Slider ***/
 [data-gallery] .fluidbox__ghost.hide-bg {
   background-image: none !important;
@@ -377,9 +408,8 @@ p:last-child {
 }
 .gallery-pagination {
   position: fixed;
-  left: 50%;
-  bottom: 30px;
-  transform: translateX(-50%);
+  left: 12%;
+  bottom: 36px;
 }
 .gallery-pagination .swiper-pagination-bullet {
   width: 20px;

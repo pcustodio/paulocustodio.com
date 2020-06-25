@@ -5,6 +5,26 @@ $(window).on('load', function() {
 			.parent().addClass('loaded');
 	}
 
+	$('.lightup').each(function() {
+		$(this).on('openstart.fluidbox', function() {
+			var $captionWrap = $(this).next('.caption-wrap');
+
+			if ($captionWrap.length) {
+				var captionWrapHtml = $captionWrap.html()
+				this.captionWrapObj = $('<div class="caption-wrap"></div>').appendTo(document.body);
+				this.captionWrapObj.html(captionWrapHtml.replace(/<p>/g, '<br><p>'));
+			}
+		});
+
+		$(this).on('openend.fluidbox', function() {
+			if (this.captionWrapObj) this.captionWrapObj.addClass('show');
+		});
+
+		$(this).on('closestart.fluidbox', function() {
+			if (this.captionWrapObj) this.captionWrapObj.remove();
+		});
+	});
+
 	$('.lightup[data-gallery]').each(function() {
 		var gallery = $(this).attr('data-gallery').replace(/\n\s*/g, '').split(','),
 			$fluidBoxGhost = $(this).find('.fluidbox__ghost'),
