@@ -26,6 +26,10 @@
                                             data-gallery="../img/folio/wukela_app_02.png">
                                             <img src="../img/folio/thumbs/wukela_app.png" alt="" title="">
                                         </a>
+                                        <div class="caption-wrap">
+                                            <p>'Wukela' - Africa's Newsreader</p>
+                                            <p>Python, Swift, UIKit, MVC, Coredata, Networking</p><p> and Json Parsing</p>
+                                        </div>
                                     </div>
                                 </div>
                             </div>
@@ -37,6 +41,10 @@
                                             data-gallery="../img/folio/nlumi_app_02.png">
                                             <img src="../img/folio/thumbs/nlumi_app.png" alt="" title="">
                                         </a>
+                                        <div class="caption-wrap">
+                                            <p>'Nlumi' - Mozambican Dictionary</p>
+                                            <p>Swift, UIKit, MVC, Coredata, Networking</p><p> and Json Parsing</p>
+                                        </div>
                                     </div>
                                 </div>
                             </div>
@@ -49,6 +57,10 @@
                                                 ../img/folio/iron_app_03.png">
                                             <img src="../img/folio/thumbs/iron_app_01.png" alt="" title="">
                                         </a>
+                                        <div class="caption-wrap">
+                                            <p>'HealthPad' - Health Advisor</p>
+                                            <p>Adobe XD / Illustrator</p>
+                                        </div>
                                     </div>
                                 </div>
                             </div>
@@ -59,6 +71,10 @@
                                         <a class="lightup" href="../img/folio/wukela_id.png" title="">
                                             <img src="../img/folio/thumbs/wukela_id.png" alt="" title="">
                                         </a>
+                                        <div class="caption-wrap">
+                                            <p>'Wukela' - Logo Design</p>
+                                            <p>Adobe Illustrator</p>
+                                        </div>
                                     </div>
                                 </div>
                             </div>

@@ -287,10 +287,11 @@ p:last-child {
 }
 body > .caption-wrap {
   position: absolute;
-  left: 12%;
+  left: 30px;
   bottom: 57px;
   z-index: 2000;
   line-height: 0;
+  overflow: hidden;
 }
 body > .caption-wrap br {
   display: block;
@@ -298,15 +299,33 @@ body > .caption-wrap br {
 body > .caption-wrap br:first-child {
   display: none;
 }
+@keyframes captionwipe{
+  from {
+    margin-left:-200px;
+  }
+  to {
+    margin-left:0px;
+  }
+}
 body > .caption-wrap p {
   display: inline-block;
   font-size: 11px;
   line-height: 15px;
   padding: 0 25px 0 5px;
   background: #201d1e;
-  margin: 0 0 3px;
+  margin: 0 0 3px 0;
   color: #fff;
-  text-transform: lowercase;
+  white-space: nowrap;
+  overflow: hidden;
+}
+body > .caption-wrap p {
+  animation: captionwipe .3s cubic-bezier(0.25, 1, 0.5, 1);
+}
+body > .caption-wrap p:last-child {
+  animation: captionwipe .35s cubic-bezier(0.25, 1, 0.5, 1);
+}
+body > .caption-wrap p:nth-child(4){
+  margin: 0;
 }
 body > .caption-wrap p:last-child {
   margin: 0;
@@ -378,6 +397,7 @@ body > .caption-wrap p:last-child {
   top: 50%;
   transform: translateY(-50%);
   border: none;
+  padding: 0;
 }
 .gallery-arrow-btn:before,
 .gallery-arrow-btn:after {
@@ -408,7 +428,7 @@ body > .caption-wrap p:last-child {
 }
 .gallery-pagination {
   position: fixed;
-  left: 12%;
+  left: 30px;
   bottom: 36px;
 }
 .gallery-pagination .swiper-pagination-bullet {
