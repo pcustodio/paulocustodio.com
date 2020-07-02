@@ -1051,7 +1051,7 @@
                         <div class="rightBar">
                             <ul class="fadeIn short delayS">
                                 <li>Selected works by Paulo Custodio, a professional Designer & iOS Developer based in Lisbon, Portugal.</li>
-                                <li><br>Head over to <a class="dark" href="https://www.linkedin.com/in/paulocustodio" target="_blank">Linkedin</a> for further career details.</li>
+                                <li><br>Consult <a class="dark" href="https://www.linkedin.com/in/paulocustodio" target="_blank">LinkedIn</a> for further details.</li>
                             </ul>
                             <span class="goBottom short"></span>
                         </div>
