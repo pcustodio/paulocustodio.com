@@ -286,7 +286,7 @@ p:last-child {
   display: none;
 }
 body > .caption-wrap {
-  position: absolute;
+  position: fixed;
   left: 30px;
   bottom: 57px;
   z-index: 2000;
@@ -319,10 +319,12 @@ body > .caption-wrap p {
   overflow: hidden;
 }
 body > .caption-wrap p {
-  animation: captionwipe .3s cubic-bezier(0.25, 1, 0.5, 1);
+  -webkit-animation: captionwipe .3s cubic-bezier(0.25, 1, 0.5, 1);
+          animation: captionwipe .3s cubic-bezier(0.25, 1, 0.5, 1);
 }
 body > .caption-wrap p:last-child {
-  animation: captionwipe .35s cubic-bezier(0.25, 1, 0.5, 1);
+  -webkit-animation: captionwipe .35s cubic-bezier(0.25, 1, 0.5, 1);
+          animation: captionwipe .35s cubic-bezier(0.25, 1, 0.5, 1);
 }
 body > .caption-wrap p:nth-child(4){
   margin: 0;
@@ -377,6 +379,31 @@ body > .caption-wrap p:last-child {
 }
 .card .card-image [data-gallery] .swiper-img {
   display: none;
+}
+@keyframes showSinglePaginator{
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
+.single-pagination-wrapper {
+  opacity: 1;
+  -webkit-animation: showSinglePaginator 1s cubic-bezier(1, 0, 0.3, 0);
+          animation: showSinglePaginator 1s cubic-bezier(1, 0, 0.3, 0);
+  z-index: 2000;
+  position: fixed;
+  left: 30px;
+  bottom: 36px;
+  line-height: 1.5em;
+}
+.single-pagination {
+  display: inline-block;
+  width: 20px;
+  height: 1px;
+  border-radius: 0;
+  background-color: #000;
 }
 .gallery-arrow-btn,
 .gallery-pagination {
