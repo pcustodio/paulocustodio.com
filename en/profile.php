@@ -25,8 +25,8 @@
                                 </div>
                             </div>
                             <div class="col l9 m6 s12">
-                                <p>I help build digital products which embrace a unique visual spectrum in parallel with seamless functionality, and generate persistent end-user engagement.</p>
-                                <p>Working alongside stakeholders and teams, I apply a iterative problem-solving approach aimed at unlocking purposeful user-driven design and code.</p>
+                                <p>I build modern digital experiences which embrace a unique visual language and engage the end-user in meaningful ways.</p>
+                                <p>Working alongside stakeholders and teams, I apply a iterative problem-solving approach aimed at unlocking purposeful and user-driven products.</p>
                             </div>
                             <div class="col m2"></div>
                             <div class="col m4">
@@ -59,26 +59,26 @@
                         <div class="preloader-background"></div>
                         <div class="row">
                             <div class="col l3 s12">
-                                <h2>skillset<span class="borderTop"></span></h2>
+                                <h2>skills<span class="borderTop"></span></h2>
                             </div>
                         </div>
                         <div class="row">
                             <div class="col l4 m6 s12 spacer">
                                 <h3 class="valign-wrapper">
-                                    <img class="gridImg" src="../img/icons/mobile.svg" alt="">
-                                    <span class="fadeIn medium delayM">iOS Development</span>
-                                </h3 >
-                            </div>
-                            <div class="col l4 m6 s12 spacer">
-                                <h3 class="valign-wrapper">
                                     <img class="gridImg" src="../img/icons/ui.svg" alt="">
-                                    <span class="fadeIn long delayL">UI Design</span>
+                                    <span class="fadeIn long delayM">UI Design</span>
                                 </h3 >
                             </div>
                             <div class="col l4 m6 s12 spacer">
                                 <h3 class="valign-wrapper">
                                     <img class="gridImg" src="../img/icons/ux.svg" alt="">
-                                    <span class="fadeIn xlong delayXL">UX Design</span>
+                                    <span class="fadeIn xlong delayL">UX Design</span>
+                                </h3 >
+                            </div>
+                            <div class="col l4 m6 s12 spacer">
+                                <h3 class="valign-wrapper">
+                                    <img class="gridImg" src="../img/icons/mobile.svg" alt="">
+                                    <span class="fadeIn medium delayXL">iOS Development</span>
                                 </h3 >
                             </div>
                             <div class="col l4 m6 s12 spacer">
@@ -110,7 +110,7 @@
                         <div class="preloader-background"></div>
                         <div class="row">
                             <div class="col l3 s12">
-                                <h2>employers<span class="borderTop"></span></h2>
+                                <h2>clients<span class="borderTop"></span></h2>
                             </div>
                         </div>
                         <div class="row clients">
@@ -225,11 +225,11 @@
                 }else if($(window).scrollTop() > $('#section2').offset().top
                     && $(window).scrollTop() < $('#section2').offset().top + $('#section2').outerHeight(true)
                 ){
-                    $('#sticky').find('h1').html('skillset<div class="borderTopFixed"></div>');
+                    $('#sticky').find('h1').html('skills<div class="borderTopFixed"></div>');
                 }else if($(window).scrollTop() > $('#section3').offset().top
                     && $(window).scrollTop() < $('#section3').offset().top + $('#section3').outerHeight(true)
                 ){
-                    $('#sticky').find('h1').html('employers<div class="borderTopFixed"></div>');
+                    $('#sticky').find('h1').html('clients<div class="borderTopFixed"></div>');
                 }
                 });
             });

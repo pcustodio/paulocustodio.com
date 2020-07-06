@@ -66,20 +66,20 @@
                         <div class="row">
                             <div class="col l4 m6 s12 spacer">
                                 <h3 class="valign-wrapper">
-                                    <img class="gridImg" src="../img/icons/mobile.svg" alt="">
-                                    <span class="fadeIn medium delayM">Programação iOS</span>
-                                </h3 >
-                            </div>
-                            <div class="col l4 m6 s12 spacer">
-                                <h3 class="valign-wrapper">
                                     <img class="gridImg" src="../img/icons/ui.svg" alt="">
-                                    <span class="fadeIn long delayL">UI Design</span>
+                                    <span class="fadeIn long delayM">UI Design</span>
                                 </h3 >
                             </div>
                             <div class="col l4 m6 s12 spacer">
                                 <h3 class="valign-wrapper">
                                     <img class="gridImg" src="../img/icons/ux.svg" alt="">
-                                    <span class="fadeIn xlong delayXL">UX Design</span>
+                                    <span class="fadeIn xlong delayL">UX Design</span>
+                                </h3 >
+                            </div>
+                            <div class="col l4 m6 s12 spacer">
+                                <h3 class="valign-wrapper">
+                                    <img class="gridImg" src="../img/icons/mobile.svg" alt="">
+                                    <span class="fadeIn medium delayXL">Programação iOS</span>
                                 </h3 >
                             </div>
                             <div class="col l4 m6 s12 spacer">
