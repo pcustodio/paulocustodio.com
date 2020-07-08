@@ -445,12 +445,12 @@ body > .caption-wrap p:last-child {
   left: 0;
   background: url(../img/arrow_knee_prev.svg) no-repeat center center;
   width: 82px;
-  height: 100vh;
+  height: 82px;
 }
 .gallery-arrow-btn.next {
   background: url(../img/arrow_knee_next.svg) no-repeat center center;
   width: 82px;
-  height: 100vh;
+  height: 82px;
   right: 0;
 }
 .gallery-pagination {
