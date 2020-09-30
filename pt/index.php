@@ -1050,8 +1050,8 @@
                     <div class="col l2 s10">
                         <div class="rightBar">
                             <ul class="fadeIn short delayS">
-                                <li>Portfolio de Paulo Custodio, Designer & iOS Developer baseado em Lisboa, Portugal.</li>
-                                <li><br>Consulte o <a class="dark" href="https://www.linkedin.com/in/paulocustodio" target="_blank">LinkedIn</a> para mais detalhes.</li>
+                                <li>Portfolio de Paulo Custodio, Designer & iOS Developer baseado em Lisboa, Portugal</li>
+                                <li><br>Consultar perfil no <a class="dark" href="https://www.linkedin.com/in/paulocustodio" target="_blank">LinkedIn</a></li>
                             </ul>
                             <span class="goBottom short"></span>
                         </div>
