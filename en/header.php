@@ -26,7 +26,7 @@
 
         <!--Google Fonts-->
         <link rel="stylesheet" href="https://use.typekit.net/yxm5wyz.css">
-        <link href="http://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+        <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
 
         <!--respond.js-->
         <script src="//cdnjs.cloudflare.com/ajax/libs/respond.js/1.4.2/respond.min.js"></script>
