@@ -12,13 +12,12 @@
                       <div class="row spacer compress pacer">
                           <div class="button-group filters-button-group">
                               <button class="button-filter is-checked" data-filter="*">Ver todos</button>
-                              <button class="button-filter" data-filter=".ios">iOS</button>
                               <button class="button-filter" data-filter=".ui-ux">UI/UX</button>
-                              <button class="button-filter" data-filter=".graphics">Gráficos</button>
+                              <button class="button-filter" data-filter=".graphics">Gráficos e Ilustração</button>
                           </div>
                       </div>
                       <div class="row grid">
-                          <div class="col l4 m4 s6 grid-item transition ios">
+                          <div class="col l4 m4 s6 grid-item transition ui-ux">
                               <!-- Card -->
                               <div class="card">
                                   <div class="card-image">
@@ -28,12 +27,12 @@
                                       </a>
                                       <div class="caption-wrap">
                                           <p>'Wukela' - iOS App</p>
-                                          <p>Python e Swift</p>
+                                          <p>Figma</p>
                                       </div>
                                   </div>
                               </div>
                           </div>
-                          <div class="col l4 m4 s6 grid-item transition ios">
+                          <div class="col l4 m4 s6 grid-item transition ui-ux">
                               <!-- Card -->
                               <div class="card">
                                   <div class="card-image">
@@ -43,7 +42,7 @@
                                       </a>
                                       <div class="caption-wrap">
                                           <p>'Nlumi' - iOS App</p>
-                                          <p>Swift</p>
+                                          <p>Figma</p>
                                           <div class="single-pagination-wrapper">
                                             <span class="single-pagination"></span>
                                           </div>
@@ -1050,8 +1049,8 @@
                     <div class="col l2 s10">
                         <div class="rightBar">
                             <ul class="fadeIn short delayS">
-                                <li>Portfolio de Paulo Custodio, Designer & iOS Developer baseado em Lisboa, Portugal</li>
-                                <li><br>Consultar perfil no <a class="dark" href="https://www.linkedin.com/in/paulocustodio" target="_blank">LinkedIn</a></li>
+                                <li>Portfolio de Paulo Custodio, um Designer baseado em Lisboa, Portugal</li>
+                                <li><br>Mais info no <a class="dark" href="https://www.linkedin.com/in/paulocustodio" target="_blank">LinkedIn</a></li>
                             </ul>
                             <span class="goBottom short"></span>
                         </div>

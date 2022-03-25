@@ -3,8 +3,8 @@
     <head>
         <meta charset="utf-8">
         <meta http-equiv="x-ua-compatible" content="ie=edge">
-        <title>Paulo Custodio - Design & iOS Development</title>
-        <meta name="description" content="Selected works by Paulo Custodio, a professional Designer & iOS Developer based in Lisbon, Portugal">
+        <title>Paulo Custodio - Designer</title>
+        <meta name="description" content="Selected works by Paulo Custodio, a Designer based in Lisbon, Portugal">
         <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
 
         <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
@@ -16,8 +16,8 @@
         <meta name="application-name" content="Paulo Custodio">
         <meta name="theme-color" content="#ffffff">
 
-        <meta property="og:title" content="Paulo Custodio - Design & iOS Development">
-        <meta property="og:description" content="Selected works by Paulo Custodio, a professional Designer & iOS Developer based in Lisbon, Portugal">
+        <meta property="og:title" content="Paulo Custodio - Designer">
+        <meta property="og:description" content="Selected works by Paulo Custodio, a Designer based in Lisbon, Portugal">
         <meta property="og:type" content="website">
         <meta property="og:url" content="http://paulocustodio.com/en/">
         <meta property="og:image" content="http://paulocustodio.com/og_logo.png">
@@ -73,7 +73,6 @@
                         <ul id="nav-mobile" class="hide-on-med-and-down">
                             <li class="<?php echo ($_SERVER['PHP_SELF'] == "/en/index.php" ? "active" : "");?>"><a class="rel" href="/en/">Work<div class="borderBottom blinker short"></div></a></li>
                             <li class="<?php echo ($_SERVER['PHP_SELF'] == "/en/profile.php" ? "active" : "");?>"><a class="rel" href="profile.php">Profile<div class="borderBottom blinker short"></div></a></li>
-                            <li class="<?php echo ($_SERVER['PHP_SELF'] == "/en/contact.php" ? "active" : "");?>"><a class="rel" href="contact.php">Contact<div class="borderBottom blinker short"></div></a></li>
                             <li>
                                 <ul class="lang">
                                     <li class="current-lang">en</li>
@@ -97,17 +96,14 @@
                         </li>
                         <li class="about-container">
                             <div class="about-name">Paulo Custodio</div>
-                            <div class="about-role">Designer & iOS Developer</div>
+                            <div class="about-role">Designer</div>
                         </li>
                         <li class="<?php echo ($_SERVER['PHP_SELF'] == "/en/index.php" ? "active" : "");?> nav-btn"><a href="/en/">Work</a></li>
                         <li class="<?php echo ($_SERVER['PHP_SELF'] == "/en/profile.php" ? "active" : "");?> nav-btn"><a href="profile.php">Profile</a></li>
-                        <li class="<?php echo ($_SERVER['PHP_SELF'] == "/en/contact.php" ? "active" : "");?> nav-btn"><a href="contact.php">Contact</a></li>
                         <li>
                             <ul class="about-social">
                                 <li><a target="_blank" href="https://www.linkedin.com/in/paulocustodio"><img src="../img/social/linkedin.svg" alt=""></a></li>
                                 <li><a target="_blank" href="https://www.behance.net/paulocustodio"><img src="../img/social/behance.svg" alt=""></a></li>
-                                <li><a target="_blank" href="https://www.facebook.com/getcustodio"><img src="../img/social/fb.svg" alt=""></a></li>
-                                <li><a target="_blank" href="https://twitter.com/paulocustodio"><img src="../img/social/twitter.svg" alt=""></a></li>
                             </ul>
                         </li>
                     </ul>

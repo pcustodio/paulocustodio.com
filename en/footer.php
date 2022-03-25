@@ -7,7 +7,6 @@
                 <ul class="social">
                     <li><a target="_blank" href="https://www.linkedin.com/in/paulocustodio"><img src="../img/social/linkedin.svg" alt=""></a></li>
                     <li><a target="_blank" href="https://www.behance.net/paulocustodio"><img src="../img/social/behance.svg" alt=""></a></li>
-                    <li><a target="_blank" href="https://www.facebook.com/getcustodio"><img src="../img/social/fb.svg" alt=""></a></li>
                 </ul>
             </div>
         </footer>
